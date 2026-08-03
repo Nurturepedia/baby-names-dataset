@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "6a1fd452c9c6d92b944c0eb5",
+    "name": "caspian",
+    "meaning": "Of the Caspian Sea or from Qazvin",
+    "slug": "caspian"
+  },
+  {
+    "_id": "6a36377d6e80c377c4aa90fa",
+    "name": "chance",
+    "meaning": "Good fortune; fortune",
+    "slug": "chance"
+  },
+  {
+    "_id": "698d5ab5995a9d80a371874c",
+    "name": "callie",
+    "meaning": "Beautiful, Lovely, Gorgeous",
+    "slug": "callie"
+  },
+  {
+    "_id": "69bcf3c3d48aae609b2d514a",
+    "name": "king",
+    "meaning": "Ruler, monarch",
+    "slug": "king"
+  },
+  {
+    "_id": "69bcf390d48aae609b2d4ff8",
+    "name": "colton",
+    "meaning": "From the coal town, dark settlement",
+    "slug": "colton"
+  },
+  {
+    "_id": "698d5ab0995a9d80a371872a",
+    "name": "callan",
+    "meaning": "Rock, Battle, Stone Fighter",
+    "slug": "callan"
+  },
+  {
+    "_id": "6a32e249f20d6496953a0700",
+    "name": "kingston",
+    "meaning": "King's town; royal settlement",
+    "slug": "kingston"
+  },
+  {
+    "_id": "698d54768113661005624e82",
+    "name": "kolter",
+    "meaning": "Colt Herder, Horse Keeper, Young Horse Tender",
+    "slug": "kolter"
+  },
+  {
+    "_id": "6a36377e6e80c377c4aa9100",
+    "name": "clayton",
+    "meaning": "Town on clay ground; settlement of clay",
+    "slug": "clayton"
+  },
+  {
+    "_id": "698d54788113661005624e94",
+    "name": "kyaire",
+    "meaning": "Pure, Clear, Bright",
+    "slug": "kyaire"
+  },
+  {
+    "_id": "69bcf3b8d48aae609b2d50fe",
+    "name": "campbell",
+    "meaning": "Crooked mouth",
+    "slug": "campbell"
+  },
+  {
+    "_id": "69bcf3a3d48aae609b2d5072",
+    "name": "knox",
+    "meaning": "Round hill",
+    "slug": "knox"
+  },
+  {
+    "_id": "698d5aae995a9d80a3718720",
+    "name": "kayson",
+    "meaning": "Son of Kay, Rejoicing, Joyful",
+    "slug": "kayson"
+  },
+  {
+    "_id": "69bcf3c3d48aae609b2d5150",
+    "name": "karter",
+    "meaning": "Cart driver, transporter",
+    "slug": "karter"
+  },
+  {
+    "_id": "698d4ce62c529f5f2001305d",
+    "name": "chloe",
+    "meaning": "Blooming, Green Shoot, Verdant",
+    "slug": "chloe"
+  },
+  {
+    "_id": "6a1fd452c9c6d92b944c0ebb",
+    "name": "cordelia",
+    "meaning": "Heart or daughter of the sea",
+    "slug": "cordelia"
+  },
+  {
+    "_id": "698d5ab0995a9d80a371872e",
+    "name": "callahan",
+    "meaning": "Bright-Headed, Little Bright-Headed One, Shining",
+    "slug": "callahan"
+  },
+  {
+    "_id": "6a3637726e80c377c4aa90a8",
+    "name": "crew",
+    "meaning": "A band or company; a crew",
+    "slug": "crew"
+  },
+  {
+    "_id": "698d499f15ac1200062cb501",
+    "name": "charlie",
+    "meaning": "Free Man",
+    "slug": "charlie"
+  },
+  {
+    "_id": "6a36377d6e80c377c4aa90fe",
+    "name": "clark",
+    "meaning": "Scholar; learned clergyman; clerk",
+    "slug": "clark"
+  },
+  {
+    "_id": "69bcf38fd48aae609b2d4ff2",
+    "name": "camden",
+    "meaning": "Winding valley",
+    "slug": "camden"
+  },
+  {
+    "_id": "69bcf38fd48aae609b2d4ff4",
+    "name": "cora",
+    "meaning": "Maiden, heart",
+    "slug": "cora"
+  },
+  {
+    "_id": "698d499f15ac1200062cb505",
+    "name": "quinn",
+    "meaning": "Wise, Counsel",
+    "slug": "quinn"
+  },
+  {
+    "_id": "69bcf395d48aae609b2d501a",
+    "name": "kaylee",
+    "meaning": "Pure, slender",
+    "slug": "kaylee"
+  },
+  {
+    "_id": "698d547e8113661005624ebf",
+    "name": "kailany",
+    "meaning": "Sea and Sky, Ocean and Heaven",
+    "slug": "kailany"
+  },
+  {
+    "_id": "69bcf3b5d48aae609b2d50ea",
+    "name": "kasai",
+    "meaning": "Fire, ornament",
+    "slug": "kasai"
+  },
+  {
+    "_id": "69bcf3abd48aae609b2d50a8",
+    "name": "clover",
+    "meaning": "Meadow flower, key",
+    "slug": "clover"
+  },
+  {
+    "_id": "698d54838113661005624ee1",
+    "name": "callaway",
+    "meaning": "Pebble Place, Stony Place, River Rock",
+    "slug": "callaway"
+  },
+  {
+    "_id": "69bcf3bcd48aae609b2d5118",
+    "name": "kinsley",
+    "meaning": "King's meadow",
+    "slug": "kinsley"
+  },
+  {
+    "_id": "698d4ce12c529f5f20013037",
+    "name": "charlotte",
+    "meaning": "Free Man, Petite",
+    "slug": "charlotte"
+  },
+  {
+    "_id": "69bcf3c3d48aae609b2d514c",
+    "name": "kyler",
+    "meaning": "Church, narrow strait",
+    "slug": "kyler"
+  },
+  {
+    "_id": "698d5aaf995a9d80a3718724",
+    "name": "kayden",
+    "meaning": "Fighter, Warrior, Mighty Warrior",
+    "slug": "kayden"
+  },
+  {
+    "_id": "6a082db2a63efd2a4d49310b",
+    "name": "christopher",
+    "meaning": "Bearer of Christ, Christ-carrier",
+    "slug": "christopher"
+  },
+  {
+    "_id": "698d499c15ac1200062cb4f1",
+    "name": "kai",
+    "meaning": "Sea, Ocean",
+    "slug": "kai"
+  },
+  {
+    "_id": "6a1fd452c9c6d92b944c0eb9",
+    "name": "cole",
+    "meaning": "Coal black, swarthy, or victory of the people",
+    "slug": "cole"
+  },
+  {
+    "_id": "698d5ab0995a9d80a371872c",
+    "name": "callum",
+    "meaning": "Dove, Peaceful, Symbol of Peace",
+    "slug": "callum"
+  },
+  {
+    "_id": "6a1fd454c9c6d92b944c0ecb",
+    "name": "kimerly",
+    "meaning": "From the meadow of the royal fortress",
+    "slug": "kimerly"
+  },
+  {
+    "_id": "698d54748113661005624e6d",
+    "name": "colsen",
+    "meaning": "Son of Cole, Victorious People",
+    "slug": "colsen"
+  },
+  {
+    "_id": "6a3637726e80c377c4aa90a6",
+    "name": "kade",
+    "meaning": "Round; barrel; from an English byname",
+    "slug": "kade"
+  },
+  {
+    "_id": "698d5ab4995a9d80a371874a",
+    "name": "kieran",
+    "meaning": "Little Dark One, Dark-Haired, Dark & Bright",
+    "slug": "kieran"
+  },
+  {
+    "_id": "6a3637746e80c377c4aa90b0",
+    "name": "kannon",
+    "meaning": "Churchman; clergy official (variant of Cannon)",
+    "slug": "kannon"
+  },
+  {
+    "_id": "698d499915ac1200062cb4db",
+    "name": "carter",
+    "meaning": "Cart Driver, Transporter Of Goods",
+    "slug": "carter"
+  },
+  {
+    "_id": "6a36377d6e80c377c4aa90fc",
+    "name": "chase",
+    "meaning": "Huntsman; one who pursues",
+    "slug": "chase"
+  },
+  {
+    "_id": "69bcf38dd48aae609b2d4fe2",
+    "name": "charles",
+    "meaning": "Free man",
+    "slug": "charles"
+  },
+  {
+    "_id": "698d54788113661005624e91",
+    "name": "kace",
+    "meaning": "Brave, Vigilant, Alert Warrior",
+    "slug": "kace"
+  },
+  {
+    "_id": "698b5f94c7f9ee6b15f16dd4",
+    "name": "kiara",
+    "meaning": "Dark-Haired, Bright",
+    "slug": "kiara"
+  },
+  {
+    "_id": "698d499b15ac1200062cb4e3",
+    "name": "cooper",
+    "meaning": "Barrel Maker",
+    "slug": "cooper"
+  },
+  {
+    "_id": "698d499f15ac1200062cb507",
+    "name": "cameron",
+    "meaning": "Crooked Nose, Bent River",
+    "slug": "cameron"
+  },
+  {
+    "_id": "698d54808113661005624ecf",
+    "name": "kehlani",
+    "meaning": "Sea and Sky, Heavenly Path",
+    "slug": "kehlani"
+  },
+  {
+    "_id": "69bcf3afd48aae609b2d50c6",
+    "name": "kenkaide",
+    "meaning": "Modern invented name",
+    "slug": "kenkaide"
+  }
+]

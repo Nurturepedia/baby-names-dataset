@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "6a36377e6e80c377c4aa9104",
+    "name": "drake",
+    "meaning": "Dragon; male duck; serpent",
+    "slug": "drake"
+  },
+  {
+    "_id": "6a624f0a55057419dbaded0b",
+    "name": "demelza",
+    "meaning": "fort on the hill",
+    "slug": "demelza"
+  },
+  {
+    "_id": "69bcf3aed48aae609b2d50be",
+    "name": "huxley",
+    "meaning": "Inhospitable place, Hugh's meadow",
+    "slug": "huxley"
+  },
+  {
+    "_id": "6a32e255f20d6496953a0758",
+    "name": "della",
+    "meaning": "Noble; bright noble one (pet form of Adela/Adelaide)",
+    "slug": "della"
+  },
+  {
+    "_id": "6a32e238f20d6496953a0692",
+    "name": "harrison",
+    "meaning": "Son of Harry; son of Henry, the home-ruler",
+    "slug": "harrison"
+  },
+  {
+    "_id": "69bcf391d48aae609b2d5000",
+    "name": "hunter",
+    "meaning": "One who hunts",
+    "slug": "hunter"
+  },
+  {
+    "_id": "6a3683c7fd359e893e580197",
+    "name": "harmony",
+    "meaning": "Harmony; agreement; perfect unity",
+    "slug": "harmony"
+  },
+  {
+    "_id": "698d54838113661005624ee5",
+    "name": "huntley",
+    "meaning": "Hunter's Meadow, Hunting Field",
+    "slug": "huntley"
+  },
+  {
+    "_id": "6a624f1455057419dbaded39",
+    "name": "dulcie",
+    "meaning": "sweet",
+    "slug": "dulcie"
+  },
+  {
+    "_id": "698d5ab4995a9d80a3718746",
+    "name": "hugo",
+    "meaning": "Mind, Intellect, Spirit, Intelligent",
+    "slug": "hugo"
+  },
+  {
+    "_id": "6a32e252f20d6496953a0746",
+    "name": "hallie",
+    "meaning": "Dweller by the meadow; home ruler (variant of Hayley/Harriet)",
+    "slug": "hallie"
+  },
+  {
+    "_id": "6a32e242f20d6496953a06d2",
+    "name": "digby",
+    "meaning": "Settlement by the ditch; town by the dyke",
+    "slug": "digby"
+  },
+  {
+    "_id": "698d5d724bfffaef8e0afe37",
+    "name": "haley",
+    "meaning": "Hay Meadow, Hay Clearing (variant spelling)",
+    "slug": "haley"
+  },
+  {
+    "_id": "6a3637746e80c377c4aa90b6",
+    "name": "deacon",
+    "meaning": "Servant; messenger; church minister",
+    "slug": "deacon"
+  },
+  {
+    "_id": "698d54798113661005624e9a",
+    "name": "heath",
+    "meaning": "Heathland Dweller, Untended Land, Wild Shrubland",
+    "slug": "heath"
+  },
+  {
+    "_id": "6a3683c2fd359e893e580177",
+    "name": "hadley",
+    "meaning": "Heather meadow; field of heather",
+    "slug": "hadley"
+  },
+  {
+    "_id": "69bcf3a2d48aae609b2d506c",
+    "name": "dawson",
+    "meaning": "Son of David",
+    "slug": "dawson"
+  },
+  {
+    "_id": "6a624ef455057419dbadecb5",
+    "name": "heledd",
+    "meaning": "salt pool",
+    "slug": "heledd"
+  },
+  {
+    "_id": "698d49a115ac1200062cb50f",
+    "name": "devon",
+    "meaning": "Poet, Defender",
+    "slug": "devon"
+  },
+  {
+    "_id": "6a624f0e55057419dbaded1d",
+    "name": "hermione",
+    "meaning": "messenger or earthly",
+    "slug": "hermione"
+  },
+  {
+    "_id": "6a1fd453c9c6d92b944c0ebf",
+    "name": "dean",
+    "meaning": "Valley or church official",
+    "slug": "dean"
+  },
+  {
+    "_id": "6a1fd453c9c6d92b944c0ec5",
+    "name": "heather",
+    "meaning": "An evergreen flowering shrub that thrives on heathlands",
+    "slug": "heather"
+  },
+  {
+    "_id": "698d4ce52c529f5f20013057",
+    "name": "harper",
+    "meaning": "Harp Player, One Who Plays The Harp",
+    "slug": "harper"
+  },
+  {
+    "_id": "6a32e238f20d6496953a0694",
+    "name": "harvey",
+    "meaning": "Battle-worthy; strong and worthy in battle",
+    "slug": "harvey"
+  },
+  {
+    "_id": "698d5ab6995a9d80a3718752",
+    "name": "daisy",
+    "meaning": "Day's Eye, Daisy Flower, Innocent",
+    "slug": "daisy"
+  },
+  {
+    "_id": "6a32e24ff20d6496953a0732",
+    "name": "hattie",
+    "meaning": "Home ruler; estate ruler (pet form of Harriet/Henrietta)",
+    "slug": "hattie"
+  },
+  {
+    "_id": "6a32e244f20d6496953a06e0",
+    "name": "dexter",
+    "meaning": "Right-handed; skilled; dyer",
+    "slug": "dexter"
+  },
+  {
+    "_id": "698d5abe995a9d80a3718792",
+    "name": "dove",
+    "meaning": "Bird of Peace, Dove, Gentle, Pure",
+    "slug": "dove"
+  },
+  {
+    "_id": "6a32e252f20d6496953a0748",
+    "name": "harriet",
+    "meaning": "Home ruler; ruler of the household (feminine of Henry)",
+    "slug": "harriet"
+  },
+  {
+    "_id": "698d54758113661005624e73",
+    "name": "halo",
+    "meaning": "Ring of Light, Divine Aura",
+    "slug": "halo"
+  },
+  {
+    "_id": "6a32e258f20d6496953a076c",
+    "name": "dahlia",
+    "meaning": "Dahlia flower; also branch (Hebrew)",
+    "slug": "dahlia"
+  },
+  {
+    "_id": "69a46f7e6128c6005fcbadfe",
+    "name": "dimple",
+    "meaning": "Dimple",
+    "slug": "dimple"
+  },
+  {
+    "_id": "6a36377b6e80c377c4aa90ec",
+    "name": "denver",
+    "meaning": "Green valley; from the Danes' ford",
+    "slug": "denver"
+  },
+  {
+    "_id": "698d499f15ac1200062cb503",
+    "name": "hayden",
+    "meaning": "Hay Valley, Hay Hill",
+    "slug": "hayden"
+  },
+  {
+    "_id": "6a36377f6e80c377c4aa9106",
+    "name": "duke",
+    "meaning": "Leader; duke; commander",
+    "slug": "duke"
+  },
+  {
+    "_id": "69bcf39dd48aae609b2d5050",
+    "name": "hope",
+    "meaning": "Expectation, belief",
+    "slug": "hope"
+  },
+  {
+    "_id": "6a3683c6fd359e893e580195",
+    "name": "harlow",
+    "meaning": "Army hill; meadow of the hares",
+    "slug": "harlow"
+  },
+  {
+    "_id": "698d547d8113661005624ebb",
+    "name": "honey",
+    "meaning": "Sweet, Nectar, Term of Endearment",
+    "slug": "honey"
+  },
+  {
+    "_id": "6a3683c7fd359e893e580199",
+    "name": "henley",
+    "meaning": "High meadow; wood clearing",
+    "slug": "henley"
+  },
+  {
+    "_id": "69bcf3a4d48aae609b2d507c",
+    "name": "dallas",
+    "meaning": "Meadow dwelling, valley of water",
+    "slug": "dallas"
+  },
+  {
+    "_id": "6a624ef455057419dbadecb7",
+    "name": "delyth",
+    "meaning": "pretty, neat",
+    "slug": "delyth"
+  },
+  {
+    "_id": "698d499715ac1200062cb4cd",
+    "name": "dylan",
+    "meaning": "Son of the sea, born from the ocean waves",
+    "slug": "dylan"
+  },
+  {
+    "_id": "6a624f0d55057419dbaded19",
+    "name": "delphine",
+    "meaning": "dolphin",
+    "slug": "delphine"
+  },
+  {
+    "_id": "69bcf3aed48aae609b2d50c0",
+    "name": "hawkins",
+    "meaning": "Son of the hawk, little hawk",
+    "slug": "hawkins"
+  },
+  {
+    "_id": "698d5ab2995a9d80a3718736",
+    "name": "hayes",
+    "meaning": "Hedged Area, Enclosure, Fenced Land",
+    "slug": "hayes"
+  },
+  {
+    "_id": "698d499115ac1200062cb49c",
+    "name": "hudson",
+    "meaning": "Son Of Hugh, Son Of The Hooded Man",
+    "slug": "hudson"
+  },
+  {
+    "_id": "698d499e15ac1200062cb4f9",
+    "name": "dakota",
+    "meaning": "Friend, Ally",
+    "slug": "dakota"
+  },
+  {
+    "_id": "698d4ce52c529f5f20013059",
+    "name": "hazel",
+    "meaning": "Hazelnut Tree, Brown",
+    "slug": "hazel"
+  },
+  {
+    "_id": "698d5ab8995a9d80a3718760",
+    "name": "hailey",
+    "meaning": "Hay Meadow, Hay Clearing, Heroine",
+    "slug": "hailey"
+  },
+  {
+    "_id": "6a32e24ef20d6496953a072c",
+    "name": "holly",
+    "meaning": "Holly tree; the holy plant of Christmas",
+    "slug": "holly"
+  }
+]

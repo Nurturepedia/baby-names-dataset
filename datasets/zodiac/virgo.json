@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "6a624ef355057419dbadecb1",
+    "name": "nerys",
+    "meaning": "lady, noblewoman",
+    "slug": "nerys"
+  },
+  {
+    "_id": "6a32e255f20d6496953a0756",
+    "name": "posie",
+    "meaning": "Bunch of flowers; small bouquet (variant of Posy)",
+    "slug": "posie"
+  },
+  {
+    "_id": "6a32e256f20d6496953a0760",
+    "name": "penny",
+    "meaning": "Weaver; faithful one (pet form of Penelope)",
+    "slug": "penny"
+  },
+  {
+    "_id": "6a32e257f20d6496953a0762",
+    "name": "polly",
+    "meaning": "Bitter; wished-for child (variant of Molly/Mary)",
+    "slug": "polly"
+  },
+  {
+    "_id": "6a3637736e80c377c4aa90aa",
+    "name": "paxton",
+    "meaning": "Pœcc's town; (popularly) town of peace",
+    "slug": "paxton"
+  },
+  {
+    "_id": "6a3637786e80c377c4aa90d0",
+    "name": "porter",
+    "meaning": "Gatekeeper; doorkeeper; carrier",
+    "slug": "porter"
+  },
+  {
+    "_id": "6a3683bffd359e893e580163",
+    "name": "paisley",
+    "meaning": "Church, basilica; the paisley pattern",
+    "slug": "paisley"
+  },
+  {
+    "_id": "6a3683c5fd359e893e580189",
+    "name": "palmer",
+    "meaning": "Pilgrim; one who bore palm branches from the Holy Land",
+    "slug": "palmer"
+  },
+  {
+    "_id": "6a624eee55057419dbadec99",
+    "name": "nia",
+    "meaning": "Bright or radiance",
+    "slug": "nia"
+  },
+  {
+    "_id": "6a32e24ef20d6496953a0726",
+    "name": "poppy",
+    "meaning": "Red flower; from the poppy bloom",
+    "slug": "poppy"
+  },
+  {
+    "_id": "6a624efc55057419dbadeccb",
+    "name": "shona",
+    "meaning": "God is gracious",
+    "slug": "shona"
+  },
+  {
+    "_id": "6a624f1055057419dbaded27",
+    "name": "persephone",
+    "meaning": "bringer of destruction or thresher of grain",
+    "slug": "persephone"
+  },
+  {
+    "_id": "6a624f1155057419dbaded29",
+    "name": "primrose",
+    "meaning": "first rose",
+    "slug": "primrose"
+  },
+  {
+    "_id": "6a624f1355057419dbaded33",
+    "name": "thomasina",
+    "meaning": "twin",
+    "slug": "thomasina"
+  },
+  {
+    "_id": "6a624f1655057419dbaded41",
+    "name": "nancy",
+    "meaning": "grace",
+    "slug": "nancy"
+  },
+  {
+    "_id": "6a624f3355057419dbadedd1",
+    "name": "petroc",
+    "meaning": "rock",
+    "slug": "petroc"
+  },
+  {
+    "_id": "6a624f3c55057419dbadedfd",
+    "name": "percy",
+    "meaning": "one who pierces the valley",
+    "slug": "percy"
+  },
+  {
+    "_id": "69bcf397d48aae609b2d5026",
+    "name": "peyton",
+    "meaning": "Fighting man's estate",
+    "slug": "peyton"
+  },
+  {
+    "_id": "698d499c15ac1200062cb4ed",
+    "name": "parker",
+    "meaning": "Park Keeper",
+    "slug": "parker"
+  },
+  {
+    "_id": "698d4ce82c529f5f2001306b",
+    "name": "nora",
+    "meaning": "Honor, Light, Splendor",
+    "slug": "nora"
+  },
+  {
+    "_id": "698d5ab1995a9d80a3718732",
+    "name": "shepherd",
+    "meaning": "Sheep Herder, Protector of Sheep",
+    "slug": "shepherd"
+  },
+  {
+    "_id": "698d5ab9995a9d80a371876b",
+    "name": "piper",
+    "meaning": "Pipe Player, Flute Player, Musician",
+    "slug": "piper"
+  },
+  {
+    "_id": "69b61b214869816a7148cfc4",
+    "name": "theo",
+    "meaning": "Gift of God",
+    "slug": "theo"
+  },
+  {
+    "_id": "69b61b294869816a7148cff8",
+    "name": "nash",
+    "meaning": "By the ash tree",
+    "slug": "nash"
+  },
+  {
+    "_id": "69bcf38ed48aae609b2d4fec",
+    "name": "thomas",
+    "meaning": "Twin, a twin-born child",
+    "slug": "thomas"
+  },
+  {
+    "_id": "69bcf390d48aae609b2d4ffa",
+    "name": "nevaeh",
+    "meaning": "Heaven spelled backwards",
+    "slug": "nevaeh"
+  },
+  {
+    "_id": "698d499215ac1200062cb4a5",
+    "name": "theodore",
+    "meaning": "Gift of God, divine gift",
+    "slug": "theodore"
+  },
+  {
+    "_id": "69bcf39bd48aae609b2d5042",
+    "name": "presley",
+    "meaning": "Priest's meadow",
+    "slug": "presley"
+  },
+  {
+    "_id": "69bcf3a5d48aae609b2d507e",
+    "name": "paige",
+    "meaning": "Young attendant, page",
+    "slug": "paige"
+  },
+  {
+    "_id": "69bcf3b7d48aae609b2d50f8",
+    "name": "poetry",
+    "meaning": "Creative literary art",
+    "slug": "poetry"
+  },
+  {
+    "_id": "69bcf3c2d48aae609b2d5144",
+    "name": "preston",
+    "meaning": "Priest's estate",
+    "slug": "preston"
+  },
+  {
+    "_id": "6a082c4198a9bc51fc17c70d",
+    "name": "pearl",
+    "meaning": "Precious gem of the sea, purity",
+    "slug": "pearl"
+  },
+  {
+    "_id": "6a082db3a63efd2a4d493111",
+    "name": "nicholas",
+    "meaning": "Victory of the people, people's champion",
+    "slug": "nicholas"
+  },
+  {
+    "_id": "6a32e24df20d6496953a0720",
+    "name": "pippa",
+    "meaning": "Lover of horses (pet form of Philippa)",
+    "slug": "pippa"
+  }
+]

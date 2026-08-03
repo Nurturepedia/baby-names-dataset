@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "698d5aba995a9d80a3718777",
+    "name": "ivy",
+    "meaning": "Ivy Plant, Faithfulness, Bond",
+    "slug": "ivy"
+  },
+  {
+    "_id": "69b61b274869816a7148cff0",
+    "name": "atlas",
+    "meaning": "Bearer of the heavens",
+    "slug": "atlas"
+  },
+  {
+    "_id": "698d547b8113661005624ea8",
+    "name": "analeia",
+    "meaning": "Graceful, Favored, Noble",
+    "slug": "analeia"
+  },
+  {
+    "_id": "698d5ab3995a9d80a3718740",
+    "name": "otis",
+    "meaning": "Wealthy, Fortunate, Prosperous",
+    "slug": "otis"
+  },
+  {
+    "_id": "698d547f8113661005624ec5",
+    "name": "lettie",
+    "meaning": "Joy, Gladness, Happy",
+    "slug": "lettie"
+  },
+  {
+    "_id": "698d4ceb2c529f5f20013079",
+    "name": "alice",
+    "meaning": "Noble, Of Noble Kind, Exalted",
+    "slug": "alice"
+  },
+  {
+    "_id": "698d6f456dfc228a34400ac1",
+    "name": "lavina",
+    "meaning": "Purity, Grace, Woman Of Rome, Innocent",
+    "slug": "lavina"
+  },
+  {
+    "_id": "698d4ce02c529f5f20013030",
+    "name": "emma",
+    "meaning": "Whole, Universal, Complete",
+    "slug": "emma"
+  },
+  {
+    "_id": "69b61b2d4869816a7148d014",
+    "name": "landon",
+    "meaning": "Long hill, ridge",
+    "slug": "landon"
+  },
+  {
+    "_id": "698d4ce22c529f5f20013040",
+    "name": "aurora",
+    "meaning": "Dawn, Sunrise, Golden Light",
+    "slug": "aurora"
+  },
+  {
+    "_id": "698d54e2834a4b65b30a3b7c",
+    "name": "elodie",
+    "meaning": "Marsh Flower, Foreign Riches, Melodious",
+    "slug": "elodie"
+  },
+  {
+    "_id": "698d54808113661005624ed1",
+    "name": "emersyn",
+    "meaning": "Brave, Powerful, Emery Stone",
+    "slug": "emersyn"
+  },
+  {
+    "_id": "698d4ce42c529f5f20013053",
+    "name": "aria",
+    "meaning": "Air, Melody, Lioness, Noble",
+    "slug": "aria"
+  },
+  {
+    "_id": "698d5ab7995a9d80a371875c",
+    "name": "elsie",
+    "meaning": "God Is My Oath, Pledged to God",
+    "slug": "elsie"
+  },
+  {
+    "_id": "698d4cdd2c529f5f20013022",
+    "name": "olivia",
+    "meaning": "Olive Tree, Peace",
+    "slug": "olivia"
+  },
+  {
+    "_id": "698d5abb995a9d80a3718780",
+    "name": "emi",
+    "meaning": "Beautiful, Blessing, Charming",
+    "slug": "emi"
+  },
+  {
+    "_id": "698d547a8113661005624ea0",
+    "name": "ailany",
+    "meaning": "Bright, Shining Light, Radiant",
+    "slug": "ailany"
+  },
+  {
+    "_id": "69b61b234869816a7148cfd0",
+    "name": "ella",
+    "meaning": "Beautiful fairy maiden, all",
+    "slug": "ella"
+  },
+  {
+    "_id": "698d499615ac1200062cb4c3",
+    "name": "owen",
+    "meaning": "Young warrior, well-born, noble",
+    "slug": "owen"
+  },
+  {
+    "_id": "69b61b2b4869816a7148d00e",
+    "name": "addison",
+    "meaning": "Son of Adam",
+    "slug": "addison"
+  },
+  {
+    "_id": "698d547c8113661005624eb3",
+    "name": "elani",
+    "meaning": "Sky, Heaven, Heavenly",
+    "slug": "elani"
+  },
+  {
+    "_id": "698d547f8113661005624ec3",
+    "name": "icelynn",
+    "meaning": "Ice Maiden, Frozen Beauty",
+    "slug": "icelynn"
+  },
+  {
+    "_id": "698d499b15ac1200062cb4e7",
+    "name": "lincoln",
+    "meaning": "Town By The Pool, Settlement By The Lake",
+    "slug": "lincoln"
+  },
+  {
+    "_id": "698d54808113661005624ecd",
+    "name": "oaklynn",
+    "meaning": "Oak Tree Meadow, Strong Oak Field",
+    "slug": "oaklynn"
+  },
+  {
+    "_id": "698d4ce32c529f5f20013045",
+    "name": "ava",
+    "meaning": "Life, Bird, Like A Bird",
+    "slug": "ava"
+  },
+  {
+    "_id": "698d54828113661005624edf",
+    "name": "ashtyn",
+    "meaning": "Ash Tree Town, From the Ash Tree Grove",
+    "slug": "ashtyn"
+  },
+  {
+    "_id": "698d54818113661005624ed7",
+    "name": "landry",
+    "meaning": "Ruler, Powerful, Strong Landowner",
+    "slug": "landry"
+  },
+  {
+    "_id": "698d4ce42c529f5f2001304e",
+    "name": "evelyn",
+    "meaning": "Wished For Child, Life, Desired",
+    "slug": "evelyn"
+  },
+  {
+    "_id": "698d5aaf995a9d80a3718726",
+    "name": "elliot",
+    "meaning": "The Lord Is My God, Faithful God",
+    "slug": "elliot"
+  },
+  {
+    "_id": "698d499d15ac1200062cb4f7",
+    "name": "emerson",
+    "meaning": "Son Of Emery, Brave, Powerful",
+    "slug": "emerson"
+  },
+  {
+    "_id": "698d5ab6995a9d80a3718754",
+    "name": "eloise",
+    "meaning": "Healthy, Wide, Prosperous",
+    "slug": "eloise"
+  },
+  {
+    "_id": "698d4ce62c529f5f20013061",
+    "name": "eleanor",
+    "meaning": "Bright, Shining Light, Torch",
+    "slug": "eleanor"
+  },
+  {
+    "_id": "698d5aba995a9d80a3718773",
+    "name": "isla",
+    "meaning": "Island, Serene, Peaceful",
+    "slug": "isla"
+  },
+  {
+    "_id": "698d499415ac1200062cb4b5",
+    "name": "aiden",
+    "meaning": "Little Fire, Fiery One",
+    "slug": "aiden"
+  },
+  {
+    "_id": "698d5abb995a9d80a371877e",
+    "name": "elsa",
+    "meaning": "God Is My Oath, Pledged to God, Noble",
+    "slug": "elsa"
+  },
+  {
+    "_id": "698d54778113661005624e8e",
+    "name": "evren",
+    "meaning": "Universe, Cosmos, Entirety",
+    "slug": "evren"
+  },
+  {
+    "_id": "698d5d744bfffaef8e0afe41",
+    "name": "lainey",
+    "meaning": "Bright, Shining Light, Famous",
+    "slug": "lainey"
+  },
+  {
+    "_id": "698d4cdf2c529f5f2001302a",
+    "name": "amelia",
+    "meaning": "Work, Industrious, Striving",
+    "slug": "amelia"
+  },
+  {
+    "_id": "69b61b204869816a7148cfaf",
+    "name": "arlo",
+    "meaning": "Fortified hill",
+    "slug": "arlo"
+  },
+  {
+    "_id": "698d547a8113661005624ea2",
+    "name": "aylani",
+    "meaning": "Heavenly, From Heaven, Sky Dweller",
+    "slug": "aylani"
+  },
+  {
+    "_id": "69b61b254869816a7148cfe4",
+    "name": "everett",
+    "meaning": "Brave as a wild boar, strong",
+    "slug": "everett"
+  },
+  {
+    "_id": "698d498f15ac1200062cb481",
+    "name": "oliver",
+    "meaning": "Olive tree, symbol of peace and fruitfulness",
+    "slug": "oliver"
+  },
+  {
+    "_id": "69b61b284869816a7148cff6",
+    "name": "audrey",
+    "meaning": "Noble strength",
+    "slug": "audrey"
+  },
+  {
+    "_id": "698d547c8113661005624eb1",
+    "name": "elowyn",
+    "meaning": "Elm Tree, Noble Tree",
+    "slug": "elowyn"
+  },
+  {
+    "_id": "698d4ce12c529f5f2001303d",
+    "name": "ellie",
+    "meaning": "Light, God Is My Light, Shining Light",
+    "slug": "ellie"
+  },
+  {
+    "_id": "698d498e15ac1200062cb47e",
+    "name": "liam",
+    "meaning": "Strong-willed warrior, resolute protector",
+    "slug": "liam"
+  },
+  {
+    "_id": "698d499315ac1200062cb4ad",
+    "name": "logan",
+    "meaning": "Little Hollow",
+    "slug": "logan"
+  },
+  {
+    "_id": "698d499b15ac1200062cb4e9",
+    "name": "avery",
+    "meaning": "Ruler Of The Elves, Wise",
+    "slug": "avery"
+  },
+  {
+    "_id": "698d4ce32c529f5f20013048",
+    "name": "lily",
+    "meaning": "Lily Flower, Pure, Innocence",
+    "slug": "lily"
+  },
+  {
+    "_id": "698d54828113661005624edd",
+    "name": "armani",
+    "meaning": "Warrior, Free Man, Strong Armed",
+    "slug": "armani"
+  }
+]

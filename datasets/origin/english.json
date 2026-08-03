@@ -1,0 +1,596 @@
+[
+  {
+    "name": "wade",
+    "meaning": "to go, ford",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rylan",
+    "meaning": "land where rye is grown",
+    "gender": "unisex",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ellison",
+    "meaning": "son of elias",
+    "gender": "unisex",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ryland",
+    "meaning": "land where rye is grown",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "harlan",
+    "meaning": "rocky land",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "denzel",
+    "meaning": "from the high stronghold",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "orson",
+    "meaning": "bear cub",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "humphrey",
+    "meaning": "peaceful warrior",
+    "gender": "boy",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "jonty",
+    "meaning": "god is gracious",
+    "gender": "boy",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "giles",
+    "meaning": "young goat",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "bryce",
+    "meaning": "speckled, freckled",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "cody",
+    "meaning": "helpful, cushion",
+    "gender": "unisex",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "linus",
+    "meaning": "flax",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "percy",
+    "meaning": "one who pierces the valley",
+    "gender": "boy",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "alfie",
+    "meaning": "elf counsel",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "franklin",
+    "meaning": "free landholder",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fox",
+    "meaning": "fox animal",
+    "gender": "unisex",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "wilbur",
+    "meaning": "resolute, brilliant",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "barnaby",
+    "meaning": "son of consolation",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ralph",
+    "meaning": "wolf counsel",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "baxter",
+    "meaning": "baker",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "chester",
+    "meaning": "fortress, walled town",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "stanley",
+    "meaning": "stony meadow",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "wilf",
+    "meaning": "desiring peace",
+    "gender": "boy",
+    "origin": [
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "wilfred",
+    "meaning": "Desiring peace",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "alfred",
+    "meaning": "Elf counsel or wise counselor",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "tremaine",
+    "meaning": "town of stone",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "petroc",
+    "meaning": "rock",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lennox",
+    "meaning": "elm grove",
+    "gender": "unisex",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "kerr",
+    "meaning": "rough ground, left-handed",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "hendry",
+    "meaning": "home ruler",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "douglas",
+    "meaning": "dark river, dark stream",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "duncan",
+    "meaning": "dark warrior",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lorne",
+    "meaning": "fox, place name",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "torin",
+    "meaning": "chief",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "murray",
+    "meaning": "seaboard settlement",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "blair",
+    "meaning": "plain, field, battlefield",
+    "gender": "unisex",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ross",
+    "meaning": "headland, promontory",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "gregor",
+    "meaning": "watchful, vigilant",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "ruaridh",
+    "meaning": "red king",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ewan",
+    "meaning": "born of the yew tree, youth",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fergus",
+    "meaning": "man of force",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "struan",
+    "meaning": "stream",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fraser",
+    "meaning": "strawberry, of the forest",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "gareth",
+    "meaning": "gentle",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "geraint",
+    "meaning": "old man",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "macsen",
+    "meaning": "greatest",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "steffan",
+    "meaning": "crown, wreath",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "gruffudd",
+    "meaning": "strong lord",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "hywel",
+    "meaning": "eminent, conspicuous",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  }
+]

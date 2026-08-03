@@ -1,0 +1,152 @@
+[
+  {
+    "name": "rimsha",
+    "slug": "rimsha",
+    "meaning": "Bouquet of Flowers",
+    "gender": "girl"
+  },
+  {
+    "name": "sabiha",
+    "slug": "sabiha",
+    "meaning": "Beautiful, Morning",
+    "gender": "girl"
+  },
+  {
+    "name": "azra",
+    "slug": "azra",
+    "meaning": "Virgin, Pure",
+    "gender": "girl"
+  },
+  {
+    "name": "zarnab",
+    "slug": "zarnab",
+    "meaning": "Marigold Flower",
+    "gender": "girl"
+  },
+  {
+    "name": "rizwana",
+    "slug": "rizwana",
+    "meaning": "Satisfaction, Contentment",
+    "gender": "girl"
+  },
+  {
+    "name": "rayhan",
+    "meaning": "Basil plant, fragrant herb, sweet fragrance",
+    "gender": "boy",
+    "slug": "rayhan"
+  },
+  {
+    "name": "zaeem",
+    "meaning": "Leader, chief, commander",
+    "gender": "boy",
+    "slug": "zaeem"
+  },
+  {
+    "name": "rizq",
+    "meaning": "Sustenance, provision, livelihood, daily bread",
+    "gender": "boy",
+    "slug": "rizq"
+  },
+  {
+    "name": "aarav",
+    "meaning": "Peaceful, Calm",
+    "gender": "boy",
+    "slug": "aarav"
+  },
+  {
+    "name": "vihaan",
+    "meaning": "Dawn, Morning",
+    "gender": "boy",
+    "slug": "vihaan"
+  },
+  {
+    "name": "reyansh",
+    "meaning": "Ray of Light",
+    "gender": "boy",
+    "slug": "reyansh"
+  },
+  {
+    "name": "ishaan",
+    "meaning": "Lord Shiva, The Sun",
+    "gender": "boy",
+    "slug": "ishaan"
+  },
+  {
+    "name": "aarush",
+    "meaning": "First Ray of Sun",
+    "gender": "boy",
+    "slug": "aarush"
+  },
+  {
+    "name": "arjun",
+    "meaning": "Bright, Shining",
+    "gender": "boy",
+    "slug": "arjun"
+  },
+  {
+    "name": "ayaan",
+    "meaning": "Gift of God",
+    "gender": "boy",
+    "slug": "ayaan"
+  },
+  {
+    "name": "krishna",
+    "meaning": "Dark, Black",
+    "gender": "boy",
+    "slug": "krishna"
+  },
+  {
+    "name": "dhruv",
+    "meaning": "Pole Star, Firm",
+    "gender": "boy",
+    "slug": "dhruv"
+  },
+  {
+    "name": "sai",
+    "meaning": "Divine, Godly",
+    "gender": "unisex",
+    "slug": "sai"
+  },
+  {
+    "name": "shivansh",
+    "meaning": "Part of Lord Shiva",
+    "gender": "boy",
+    "slug": "shivansh"
+  },
+  {
+    "name": "nirvaan",
+    "meaning": "Liberation, Bliss",
+    "gender": "boy",
+    "slug": "nirvaan"
+  },
+  {
+    "name": "yash",
+    "meaning": "Fame, Glory",
+    "gender": "boy",
+    "slug": "yash"
+  },
+  {
+    "name": "lakshya",
+    "meaning": "Aim, Target",
+    "gender": "boy",
+    "slug": "lakshya"
+  },
+  {
+    "name": "atharv",
+    "meaning": "Knowledge, Wisdom",
+    "gender": "boy",
+    "slug": "atharv"
+  },
+  {
+    "name": "siddharth",
+    "meaning": "One Who Has Accomplished Goals",
+    "gender": "boy",
+    "slug": "siddharth"
+  },
+  {
+    "name": "vansh",
+    "meaning": "Lineage, Dynasty",
+    "gender": "boy",
+    "slug": "vansh"
+  }
+]

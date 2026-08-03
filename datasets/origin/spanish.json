@@ -1,0 +1,589 @@
+[
+  {
+    "name": "jago",
+    "meaning": "Supplanter",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "aitana",
+    "meaning": "Glory; (from the Aitana mountains of Spain)",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mariana",
+    "meaning": "Of the sea; beloved; blend of Maria and Ana",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ximena",
+    "meaning": "The listener; one who hears",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "ricardo",
+    "meaning": "Brave ruler; powerful and brave leader",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ramon",
+    "meaning": "Wise protector; counsel and protection",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "francisco",
+    "meaning": "Free one; Frenchman",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "fernando",
+    "meaning": "Bold voyager; brave and ardent journeyer",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "esteban",
+    "meaning": "Crowned one; garland, crown",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "emiliano",
+    "meaning": "Rival; eager and industrious",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "antonio",
+    "meaning": "Priceless; praiseworthy; beyond value",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "jose",
+    "meaning": "God will increase; He shall add",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "angel",
+    "meaning": "Messenger of God; angel",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ines",
+    "meaning": "Pure; holy; chaste (Spanish form of Agnes)",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "catalina",
+    "meaning": "Pure; clear (Spanish form of Catherine)",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "alba",
+    "meaning": "Dawn; sunrise; white",
+    "gender": "unisex",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "carmen",
+    "meaning": "Song; garden orchard (from Carmel)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "coco",
+    "meaning": "Affectionate pet name; chocolate bean",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "isabel",
+    "meaning": "God is my oath; pledged to God (medieval form of Elizabeth)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "pablo",
+    "meaning": "Small; humble (Spanish form of Paul)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "alejandro",
+    "meaning": "Defender of the people (Spanish form of Alexander)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "thiago",
+    "meaning": "Supplanter (Portuguese form derived from Santiago/James)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "santiago",
+    "meaning": "Saint James",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "diego",
+    "meaning": "Supplanter (Spanish name linked to James/Santiago)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "cruz",
+    "meaning": "Cross",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "xavier",
+    "meaning": "The new house; bright and splendid",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "leodegario",
+    "meaning": "Spear of the people or people's spear",
+    "gender": "boy",
+    "origin": [
+      "germanic",
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "elio",
+    "meaning": "Sun or ruler of the sun",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "dante",
+    "meaning": "Enduring or steadfast",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "javier",
+    "meaning": "New house, bright",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lola",
+    "meaning": "Sorrows, strong woman",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "paloma",
+    "meaning": "Dove, peace",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lucia",
+    "meaning": "Light",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "monte",
+    "meaning": "Mountain",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "jade",
+    "meaning": "Stone of the side, precious green stone",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "elena",
+    "meaning": "Shining light, bright one",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "maya",
+    "meaning": "Illusion, water, great",
+    "gender": "girl",
+    "origin": [
+      "sanskrit",
+      "hebrew",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "isla",
+    "meaning": "Island, Serene, Peaceful",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "liliana",
+    "meaning": "Lily, Pure, Innocent, Sacred Flower",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "amaya",
+    "meaning": "Night Rain, The End, Beloved",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hindi"
+    ],
+    "religion": [
+      "hinduism",
+      "neutral"
+    ]
+  },
+  {
+    "name": "solana",
+    "meaning": "Sunshine, Sunlight, Solar",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "julietta",
+    "meaning": "Youthful, Downy, Youthful Complexion",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "analeia",
+    "meaning": "Graceful, Favored, Noble",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "savannah",
+    "meaning": "Treeless Plain, Open Field",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "camila",
+    "meaning": "Young Ceremonial Attendant, Helper",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "sofia",
+    "meaning": "Wisdom, Wise",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "luna",
+    "meaning": "Moon, Moonlight",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "isabella",
+    "meaning": "God Is My Oath, Devoted To God",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "mateo",
+    "meaning": "Gift Of God",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  }
+]

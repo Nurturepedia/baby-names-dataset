@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "6a624f1155057419dbaded2b",
+    "name": "rosalind",
+    "meaning": "gentle horse or beautiful rose",
+    "slug": "rosalind"
+  },
+  {
+    "_id": "6a3637716e80c377c4aa909c",
+    "name": "remington",
+    "meaning": "From the place on the riverbank; raven settlement",
+    "slug": "remington"
+  },
+  {
+    "_id": "6a3637796e80c377c4aa90d4",
+    "name": "raylan",
+    "meaning": "Modern coinage; ray of light (Ray + lan)",
+    "slug": "raylan"
+  },
+  {
+    "_id": "6a3637796e80c377c4aa90d6",
+    "name": "reid",
+    "meaning": "Red-haired; ruddy complexion",
+    "slug": "reid"
+  },
+  {
+    "_id": "6a3637796e80c377c4aa90da",
+    "name": "royal",
+    "meaning": "Of royal descent; kingly",
+    "slug": "royal"
+  },
+  {
+    "_id": "6a3637796e80c377c4aa90dc",
+    "name": "royce",
+    "meaning": "Son of Royse; famous, kind",
+    "slug": "royce"
+  },
+  {
+    "_id": "6a3683cbfd359e893e5801bd",
+    "name": "royalty",
+    "meaning": "Royal status; of royal blood; majesty",
+    "slug": "royalty"
+  },
+  {
+    "_id": "6a624ef055057419dbadeca1",
+    "name": "rhiannon",
+    "meaning": "great queen, divine goddess",
+    "slug": "rhiannon"
+  },
+  {
+    "_id": "6a624ef655057419dbadecbd",
+    "name": "rhian",
+    "meaning": "maiden",
+    "slug": "rhian"
+  },
+  {
+    "_id": "6a624efd55057419dbadecd3",
+    "name": "rowena",
+    "meaning": "fame and joy",
+    "slug": "rowena"
+  },
+  {
+    "_id": "6a32e251f20d6496953a0740",
+    "name": "rosie",
+    "meaning": "Rose; little rose (pet form of Rose)",
+    "slug": "rosie"
+  },
+  {
+    "_id": "6a624f1155057419dbaded2d",
+    "name": "rosamund",
+    "meaning": "horse protector or pure rose",
+    "slug": "rosamund"
+  },
+  {
+    "_id": "6a624f1a55057419dbaded55",
+    "name": "romilly",
+    "meaning": "from romilly",
+    "slug": "romilly"
+  },
+  {
+    "_id": "6a624f1b55057419dbaded57",
+    "name": "rosanna",
+    "meaning": "gracious rose",
+    "slug": "rosanna"
+  },
+  {
+    "_id": "6a624f1e55057419dbaded67",
+    "name": "rhydian",
+    "meaning": "red, cross the ford",
+    "slug": "rhydian"
+  },
+  {
+    "_id": "6a624f2655057419dbaded8d",
+    "name": "ruaridh",
+    "meaning": "red king",
+    "slug": "ruaridh"
+  },
+  {
+    "_id": "6a624f2655057419dbaded91",
+    "name": "ross",
+    "meaning": "headland, promontory",
+    "slug": "ross"
+  },
+  {
+    "_id": "6a624f3655057419dbadede1",
+    "name": "ralph",
+    "meaning": "wolf counsel",
+    "slug": "ralph"
+  },
+  {
+    "_id": "6a624f4155057419dbadee21",
+    "name": "ryland",
+    "meaning": "land where rye is grown",
+    "slug": "ryland"
+  },
+  {
+    "_id": "6a624f4255057419dbadee25",
+    "name": "rylan",
+    "meaning": "land where rye is grown",
+    "slug": "rylan"
+  },
+  {
+    "_id": "698d5ab2995a9d80a371873a",
+    "name": "rhodes",
+    "meaning": "Where Roses Grow, Rose Place",
+    "slug": "rhodes"
+  },
+  {
+    "_id": "698d499c15ac1200062cb4ef",
+    "name": "rowan",
+    "meaning": "Little Red One, Rowan Tree",
+    "slug": "rowan"
+  },
+  {
+    "_id": "698d499d15ac1200062cb4f5",
+    "name": "river",
+    "meaning": "Flowing Water",
+    "slug": "river"
+  },
+  {
+    "_id": "698d49a015ac1200062cb50d",
+    "name": "reese",
+    "meaning": "Enthusiasm, Ardor",
+    "slug": "reese"
+  },
+  {
+    "_id": "698d4ce92c529f5f2001306f",
+    "name": "ruby",
+    "meaning": "Red Gemstone, Precious Jewel",
+    "slug": "ruby"
+  },
+  {
+    "_id": "698d54778113661005624e8b",
+    "name": "rocky",
+    "meaning": "Rock, Stone, Strong as Stone",
+    "slug": "rocky"
+  },
+  {
+    "_id": "698d547b8113661005624eab",
+    "name": "romy",
+    "meaning": "Dew of the Sea, Rosemary Herb, Sea-dew",
+    "slug": "romy"
+  },
+  {
+    "_id": "698d547d8113661005624eb7",
+    "name": "rowyn",
+    "meaning": "Little Red One, Rowan Tree, Red Haired",
+    "slug": "rowyn"
+  },
+  {
+    "_id": "698d54828113661005624ed9",
+    "name": "robin",
+    "meaning": "Bright Fame, Shining, Red Breast Bird",
+    "slug": "robin"
+  },
+  {
+    "_id": "698d54848113661005624ee9",
+    "name": "rory",
+    "meaning": "Red King, Ruler of Red",
+    "slug": "rory"
+  },
+  {
+    "_id": "698d499c15ac1200062cb4eb",
+    "name": "riley",
+    "meaning": "Courageous, Valiant",
+    "slug": "riley"
+  },
+  {
+    "_id": "698d5abd995a9d80a371878e",
+    "name": "raven",
+    "meaning": "Dark-Haired, Blackbird, Intelligent Bird",
+    "slug": "raven"
+  },
+  {
+    "_id": "69b61b274869816a7148cfee",
+    "name": "rhett",
+    "meaning": "Advice, counsel",
+    "slug": "rhett"
+  },
+  {
+    "_id": "69b61b2a4869816a7148cffe",
+    "name": "ryder",
+    "meaning": "Knight, mounted warrior",
+    "slug": "ryder"
+  },
+  {
+    "_id": "69bcf3add48aae609b2d50ba",
+    "name": "ronin",
+    "meaning": "Samurai without a master",
+    "slug": "ronin"
+  },
+  {
+    "_id": "69bcf3b0d48aae609b2d50ca",
+    "name": "raye",
+    "meaning": "Beam of light",
+    "slug": "raye"
+  },
+  {
+    "_id": "69bcf3b2d48aae609b2d50d6",
+    "name": "rose",
+    "meaning": "Rose flower",
+    "slug": "rose"
+  },
+  {
+    "_id": "69bcf3bed48aae609b2d5128",
+    "name": "raelynn",
+    "meaning": "Beam of light + lake",
+    "slug": "raelynn"
+  },
+  {
+    "_id": "6a32e241f20d6496953a06ca",
+    "name": "reggie",
+    "meaning": "Counsel power; ruler with counsel (pet form of Reginald)",
+    "slug": "reggie"
+  },
+  {
+    "_id": "6a32e247f20d6496953a06f4",
+    "name": "rhys",
+    "meaning": "Ardour; enthusiasm; fiery passion (Welsh)",
+    "slug": "rhys"
+  }
+]

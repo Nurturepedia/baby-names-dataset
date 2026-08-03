@@ -1,0 +1,592 @@
+[
+  {
+    "name": "humphrey",
+    "meaning": "peaceful warrior",
+    "gender": "boy",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "bruno",
+    "meaning": "brown",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "wilbur",
+    "meaning": "resolute, brilliant",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "magnus",
+    "meaning": "greatest",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "casper",
+    "meaning": "bringer of treasure",
+    "gender": "boy",
+    "origin": [
+      "arabic",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ralph",
+    "meaning": "wolf counsel",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "wilfred",
+    "meaning": "Desiring peace",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "alfred",
+    "meaning": "Elf counsel or wise counselor",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "zinnia",
+    "meaning": "zinn's flower",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "maud",
+    "meaning": "powerful battler",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "rosamund",
+    "meaning": "horse protector or pure rose",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rosalind",
+    "meaning": "gentle horse or beautiful rose",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "millicent",
+    "meaning": "strong in work",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rowena",
+    "meaning": "fame and joy",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "irish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ailsa",
+    "meaning": "elf victory, from Ailsa Craig",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "elin",
+    "meaning": "bright, shining light",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "astrid",
+    "meaning": "Divinely beautiful; fair, beloved goddess",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "amelie",
+    "meaning": "Industrious; hard-working; striving",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "zelda",
+    "meaning": "Grey fighting maiden (from Griselda); blessed",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "louisa",
+    "meaning": "Renowned warrior; famous in battle",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ingrid",
+    "meaning": "Ing's beauty; beautiful, fair",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "charlee",
+    "meaning": "Free woman; petite and free (feminine of Charles)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "adalynn",
+    "meaning": "Noble; of the nobility (elaboration of Adeline)",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "aubree",
+    "meaning": "Elf ruler; ruler of the little folk",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "soren",
+    "meaning": "Stern, severe; from Latin Severus",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "royce",
+    "meaning": "Son of Royse; famous, kind",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ricardo",
+    "meaning": "Brave ruler; powerful and brave leader",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ramon",
+    "meaning": "Wise protector; counsel and protection",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "kaiser",
+    "meaning": "Emperor; ruler",
+    "gender": "boy",
+    "origin": [
+      "germanic",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fernando",
+    "meaning": "Bold voyager; brave and ardent journeyer",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "barrett",
+    "meaning": "Bear strength; mighty as a bear",
+    "gender": "boy",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ryker",
+    "meaning": "Rich; powerful ruler",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "leni",
+    "meaning": "Light; bright torch (German pet form of Helena/Magdalena)",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "odette",
+    "meaning": "Wealth; little wealthy one (French, from Germanic Oda)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ottilie",
+    "meaning": "Prosperous in battle; fortunate heroine (from Germanic Odila)",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "saskia",
+    "meaning": "Saxon; protector of mankind (Dutch)",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "willa",
+    "meaning": "Resolute protection (feminine form of William)",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "etta",
+    "meaning": "Ruler of the home; little one (pet form of Henrietta/Loretta)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "della",
+    "meaning": "Noble; bright noble one (pet form of Adela/Adelaide)",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "greta",
+    "meaning": "Pearl (German short form of Margareta)",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "harriet",
+    "meaning": "Home ruler; ruler of the household (feminine of Henry)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "tilly",
+    "meaning": "Mighty in battle (pet form of Matilda)",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "heidi",
+    "meaning": "Noble; of noble kind (German pet form of Adelheid)",
+    "gender": "girl",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "hattie",
+    "meaning": "Home ruler; estate ruler (pet form of Harriet/Henrietta)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "billie",
+    "meaning": "Resolute protector (pet form of William or Wilhelmina)",
+    "gender": "unisex",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "ada",
+    "meaning": "Noble, nobility; also adornment",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rupert",
+    "meaning": "Bright fame (Germanic form of Robert)",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rocco",
+    "meaning": "Rest; repose (Italian, via Saint Roch)",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lewis",
+    "meaning": "Renowned warrior; famous in battle (English form of Louis)",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "jensen",
+    "meaning": "Son of Jens; God is gracious (Danish patronymic)",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  }
+]

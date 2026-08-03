@@ -1,0 +1,1188 @@
+[
+  {
+    "name": "zachariah",
+    "meaning": "The Lord has remembered",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "jonty",
+    "meaning": "god is gracious",
+    "gender": "boy",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "giles",
+    "meaning": "young goat",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "solomon",
+    "meaning": "Peaceful",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "benedict",
+    "meaning": "blessed",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "barnaby",
+    "meaning": "son of consolation",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "wilfred",
+    "meaning": "Desiring peace",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "petroc",
+    "meaning": "rock",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "jago",
+    "meaning": "Supplanter",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "colm",
+    "meaning": "dove",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "eoin",
+    "meaning": "God is gracious",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "ultan",
+    "meaning": "man from ulster",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "senan",
+    "meaning": "old, wise",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "lorcan",
+    "meaning": "little fierce one",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "fiachra",
+    "meaning": "raven, battle king",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "odhran",
+    "meaning": "little pale green one",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "seamus",
+    "meaning": "Supplanter",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "gregor",
+    "meaning": "watchful, vigilant",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "steffan",
+    "meaning": "crown, wreath",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ianto",
+    "meaning": "god is gracious",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ieuan",
+    "meaning": "god is gracious",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "dewi",
+    "meaning": "beloved",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "gwilym",
+    "meaning": "resolute protector",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "emrys",
+    "meaning": "Immortal",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "latin"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "rosanna",
+    "meaning": "gracious rose",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "sabina",
+    "meaning": "sabine woman",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lois",
+    "meaning": "most desirable or superior",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "kitty",
+    "meaning": "pure",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "clementine",
+    "meaning": "mild, merciful",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "nancy",
+    "meaning": "grace",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "maud",
+    "meaning": "powerful battler",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "betsy",
+    "meaning": "pledged to god",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "georgina",
+    "meaning": "farmer or earth-worker",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "thomasina",
+    "meaning": "twin",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "susanna",
+    "meaning": "lily",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "beatrix",
+    "meaning": "voyager or blessed",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "bethany",
+    "meaning": "house of figs",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "senara",
+    "meaning": "light",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "morwenna",
+    "meaning": "waves of the sea",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "siobhan",
+    "meaning": "God is gracious",
+    "gender": "girl",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "sinead",
+    "meaning": "God is gracious",
+    "gender": "girl",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "elspeth",
+    "meaning": "pledged to God",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "kirsty",
+    "meaning": "follower of Christ",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "shona",
+    "meaning": "God is gracious",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "catriona",
+    "meaning": "pure",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "mhairi",
+    "meaning": "beloved, sea of bitterness",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ishbel",
+    "meaning": "pledged to God",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "iona",
+    "meaning": "island, blessed jewel",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "sioned",
+    "meaning": "God is gracious",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "bethan",
+    "meaning": "pledged to God",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "catrin",
+    "meaning": "pure",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "sian",
+    "meaning": "God is gracious",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "virginia",
+    "meaning": "Maiden; pure; virginal",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "selah",
+    "meaning": "Pause and reflect; (a Psalm interlude); praise",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "renata",
+    "meaning": "Reborn; born anew",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "makayla",
+    "meaning": "Who is like God? (feminine of Michael)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "joanna",
+    "meaning": "God is gracious; the Lord's gracious gift",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "daniela",
+    "meaning": "God is my judge (feminine of Daniel)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "mariana",
+    "meaning": "Of the sea; beloved; blend of Maria and Ana",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "melanie",
+    "meaning": "Dark-haired; dark beauty",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "ximena",
+    "meaning": "The listener; one who hears",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "genesis",
+    "meaning": "Origin; beginning; birth",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ambrose",
+    "meaning": "Immortal; divine, everlasting",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "valentino",
+    "meaning": "Strong, vigorous, healthy",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "titus",
+    "meaning": "Title of honour; defender",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "samson",
+    "meaning": "Sun; man of the sun",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "messiah",
+    "meaning": "Anointed one; deliverer; the saviour",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "matias",
+    "meaning": "Gift of God",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "gideon",
+    "meaning": "Mighty warrior; feller; one who cuts down",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "francisco",
+    "meaning": "Free one; Frenchman",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "fernando",
+    "meaning": "Bold voyager; brave and ardent journeyer",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "germanic"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "esteban",
+    "meaning": "Crowned one; garland, crown",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ellis",
+    "meaning": "The Lord is my God; benevolent",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "abram",
+    "meaning": "Exalted father; high father",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "emiliano",
+    "meaning": "Rival; eager and industrious",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "antonio",
+    "meaning": "Priceless; praiseworthy; beyond value",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "israel",
+    "meaning": "One who struggles with God; God contends",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "jose",
+    "meaning": "God will increase; He shall add",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "angel",
+    "meaning": "Messenger of God; angel",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ines",
+    "meaning": "Pure; holy; chaste (Spanish form of Agnes)",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "mara",
+    "meaning": "Bitter; strong",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "catalina",
+    "meaning": "Pure; clear (Spanish form of Catherine)",
+    "gender": "girl",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "carmen",
+    "meaning": "Song; garden orchard (from Carmel)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "isabel",
+    "meaning": "God is my oath; pledged to God (medieval form of Elizabeth)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "eliza",
+    "meaning": "God is my oath; pledged to God (short form of Elizabeth)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "cillian",
+    "meaning": "Strife; or little church one",
+    "gender": "boy",
+    "origin": [
+      "irish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "pablo",
+    "meaning": "Small; humble (Spanish form of Paul)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "thiago",
+    "meaning": "Supplanter (Portuguese form derived from Santiago/James)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "santiago",
+    "meaning": "Saint James",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "diego",
+    "meaning": "Supplanter (Spanish name linked to James/Santiago)",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "rafael",
+    "meaning": "God has healed",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lawrence",
+    "meaning": "From Laurentum; crowned with laurel",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "matteo",
+    "meaning": "Gift of God (Italian form of Matthew)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "saul",
+    "meaning": "Asked for; prayed for",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "seth",
+    "meaning": "Appointed; placed",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "rocco",
+    "meaning": "Rest; repose (Italian, via Saint Roch)",
+    "gender": "boy",
+    "origin": [
+      "germanic"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "cruz",
+    "meaning": "Cross",
+    "gender": "boy",
+    "origin": [
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "tobias",
+    "meaning": "God is good (Greek form of the Hebrew Tobiah)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "zachary",
+    "meaning": "The Lord has remembered",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "nate",
+    "meaning": "He gave; gift from God (short form of Nathan)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  }
+]

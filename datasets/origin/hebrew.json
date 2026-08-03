@@ -1,0 +1,587 @@
+[
+  {
+    "name": "zachariah",
+    "meaning": "The Lord has remembered",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "jonty",
+    "meaning": "god is gracious",
+    "gender": "boy",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "solomon",
+    "meaning": "Peaceful",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "barnaby",
+    "meaning": "son of consolation",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "jago",
+    "meaning": "Supplanter",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "eoin",
+    "meaning": "God is gracious",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "seamus",
+    "meaning": "Supplanter",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "nancy",
+    "meaning": "grace",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "betsy",
+    "meaning": "pledged to god",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "thomasina",
+    "meaning": "twin",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "susanna",
+    "meaning": "lily",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "bethany",
+    "meaning": "house of figs",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ariyah",
+    "meaning": "Lioness; (also) melody, air",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "selah",
+    "meaning": "Pause and reflect; (a Psalm interlude); praise",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "makayla",
+    "meaning": "Who is like God? (feminine of Michael)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "joanna",
+    "meaning": "God is gracious; the Lord's gracious gift",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "jordyn",
+    "meaning": "To flow down; from the river Jordan",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "daniela",
+    "meaning": "God is my judge (feminine of Daniel)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "samson",
+    "meaning": "Sun; man of the sun",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "messiah",
+    "meaning": "Anointed one; deliverer; the saviour",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "matias",
+    "meaning": "Gift of God",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "gideon",
+    "meaning": "Mighty warrior; feller; one who cuts down",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ellis",
+    "meaning": "The Lord is my God; benevolent",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "abram",
+    "meaning": "Exalted father; high father",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "israel",
+    "meaning": "One who struggles with God; God contends",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "islam"
+    ]
+  },
+  {
+    "name": "jose",
+    "meaning": "God will increase; He shall add",
+    "gender": "boy",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "mara",
+    "meaning": "Bitter; strong",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "carmen",
+    "meaning": "Song; garden orchard (from Carmel)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "anais",
+    "meaning": "Grace; gracious one (Catalan and French form of Anna)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "dahlia",
+    "meaning": "Dahlia flower; also branch (Hebrew)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "polly",
+    "meaning": "Bitter; wished-for child (variant of Molly/Mary)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "marnie",
+    "meaning": "Of the sea; rejoice",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "isabel",
+    "meaning": "God is my oath; pledged to God (medieval form of Elizabeth)",
+    "gender": "girl",
+    "origin": [
+      "spanish",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "eliza",
+    "meaning": "God is my oath; pledged to God (short form of Elizabeth)",
+    "gender": "girl",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "ada",
+    "meaning": "Noble, nobility; also adornment",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "evie",
+    "meaning": "Life; living one (pet form of Eve or Evelyn)",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rafael",
+    "meaning": "God has healed",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "matteo",
+    "meaning": "Gift of God (Italian form of Matthew)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "sam",
+    "meaning": "Heard by God; told by God (short for Samuel or Samantha)",
+    "gender": "unisex",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "saul",
+    "meaning": "Asked for; prayed for",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "seth",
+    "meaning": "Appointed; placed",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "axel",
+    "meaning": "Father of peace (Scandinavian form of Absalom)",
+    "gender": "boy",
+    "origin": [
+      "hebrew",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "cohen",
+    "meaning": "Priest",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "tobias",
+    "meaning": "God is good (Greek form of the Hebrew Tobiah)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "kobe",
+    "meaning": "Supplanter (Flemish pet form of Jacob); also linked to the Japanese city",
+    "gender": "boy",
+    "origin": [
+      "hebrew",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "zachary",
+    "meaning": "The Lord has remembered",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "nate",
+    "meaning": "He gave; gift from God (short form of Nathan)",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "reuben",
+    "meaning": "Behold, a son",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "joshua",
+    "meaning": "Yahweh is salvation; the Lord saves",
+    "gender": "boy",
+    "origin": [
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lisa",
+    "meaning": "Pledged to God or God is my oath",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  }
+]

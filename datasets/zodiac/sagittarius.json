@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "698d499e15ac1200062cb4fb",
+    "name": "finley",
+    "meaning": "Fair-Haired Hero, Fair Warrior",
+    "slug": "finley"
+  },
+  {
+    "_id": "698d5ab3995a9d80a371873c",
+    "name": "fletcher",
+    "meaning": "Arrow Maker, Archer",
+    "slug": "fletcher"
+  },
+  {
+    "_id": "698d5abc995a9d80a3718786",
+    "name": "frances",
+    "meaning": "Free One, From France, Liberated",
+    "slug": "frances"
+  },
+  {
+    "_id": "69bcf3abd48aae609b2d50ae",
+    "name": "ford",
+    "meaning": "River crossing",
+    "slug": "ford"
+  },
+  {
+    "_id": "69bcf3acd48aae609b2d50b0",
+    "name": "fitzgerald",
+    "meaning": "Son of the spear ruler",
+    "slug": "fitzgerald"
+  },
+  {
+    "_id": "69bcf3b0d48aae609b2d50cc",
+    "name": "fawnie",
+    "meaning": "Young deer, fawn",
+    "slug": "fawnie"
+  },
+  {
+    "_id": "6a082c3898a9bc51fc17c6c9",
+    "name": "faith",
+    "meaning": "Trust, belief, devotion, confidence",
+    "slug": "faith"
+  },
+  {
+    "_id": "6a32e24cf20d6496953a0718",
+    "name": "frankie",
+    "meaning": "Free one; from France (pet form of Frances or Francis)",
+    "slug": "frankie"
+  },
+  {
+    "_id": "6a32e253f20d6496953a074c",
+    "name": "fern",
+    "meaning": "Fern plant; green forest frond",
+    "slug": "fern"
+  },
+  {
+    "_id": "6a624eed55057419dbadec91",
+    "name": "ffion",
+    "meaning": "Foxglove flower",
+    "slug": "ffion"
+  },
+  {
+    "_id": "6a624eff55057419dbadecdb",
+    "name": "fenella",
+    "meaning": "white shoulder",
+    "slug": "fenella"
+  },
+  {
+    "_id": "6a624f2455057419dbaded85",
+    "name": "fraser",
+    "meaning": "strawberry, of the forest",
+    "slug": "fraser"
+  },
+  {
+    "_id": "6a624f2555057419dbaded89",
+    "name": "fergus",
+    "meaning": "man of force",
+    "slug": "fergus"
+  },
+  {
+    "_id": "6a624f3b55057419dbadedf7",
+    "name": "fox",
+    "meaning": "fox animal",
+    "slug": "fox"
+  },
+  {
+    "_id": "6a624f3b55057419dbadedf9",
+    "name": "franklin",
+    "meaning": "free landholder",
+    "slug": "franklin"
+  }
+]

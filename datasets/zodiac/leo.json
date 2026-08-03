@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "6a1fd44ec9c6d92b944c0e9d",
+    "name": "madison",
+    "meaning": "Son of Matthew (gift of God) or son of Maud (mighty battle)",
+    "slug": "madison"
+  },
+  {
+    "_id": "6a32e251f20d6496953a0742",
+    "name": "tilly",
+    "meaning": "Mighty in battle (pet form of Matilda)",
+    "slug": "tilly"
+  },
+  {
+    "_id": "69bcf3a2d48aae609b2d5070",
+    "name": "tucker",
+    "meaning": "Fabric pleater, to torment",
+    "slug": "tucker"
+  },
+  {
+    "_id": "69bcf3bed48aae609b2d512c",
+    "name": "mya",
+    "meaning": "Great, emerald",
+    "slug": "mya"
+  },
+  {
+    "_id": "69bcf3a9d48aae609b2d509e",
+    "name": "townes",
+    "meaning": "Settlement, enclosure",
+    "slug": "townes"
+  },
+  {
+    "_id": "69bcf399d48aae609b2d5030",
+    "name": "margaret",
+    "meaning": "Pearl",
+    "slug": "margaret"
+  },
+  {
+    "_id": "6a32e241f20d6496953a06cc",
+    "name": "teddy",
+    "meaning": "Gift of God; wealthy guardian (pet form of Theodore or Edward)",
+    "slug": "teddy"
+  },
+  {
+    "_id": "698d5ab1995a9d80a3718734",
+    "name": "miller",
+    "meaning": "Grain Grinder, Mill Worker",
+    "slug": "miller"
+  },
+  {
+    "_id": "6a32e257f20d6496953a0764",
+    "name": "mae",
+    "meaning": "Pearl; the month of May (variant of May/Mary)",
+    "slug": "mae"
+  },
+  {
+    "_id": "698d5ab8995a9d80a3718767",
+    "name": "marigold",
+    "meaning": "Golden Flower, Mary's Gold, Precious Bloom",
+    "slug": "marigold"
+  },
+  {
+    "_id": "69bcf3b9d48aae609b2d5104",
+    "name": "tanner",
+    "meaning": "Leather maker",
+    "slug": "tanner"
+  },
+  {
+    "_id": "69bcf3acd48aae609b2d50b4",
+    "name": "maxwell",
+    "meaning": "Great stream",
+    "slug": "maxwell"
+  },
+  {
+    "_id": "69bcf391d48aae609b2d4ffe",
+    "name": "madeline",
+    "meaning": "Woman from Magdala, tower",
+    "slug": "madeline"
+  },
+  {
+    "_id": "6a082c4198a9bc51fc17c711",
+    "name": "melody",
+    "meaning": "Song, musical tune, sweetness of sound",
+    "slug": "melody"
+  },
+  {
+    "_id": "698d547e8113661005624ec1",
+    "name": "marlowe",
+    "meaning": "Driftwood, Lake Hill, Marshy Stream",
+    "slug": "marlowe"
+  },
+  {
+    "_id": "6a32e23ef20d6496953a06b4",
+    "name": "tate",
+    "meaning": "Cheerful; bringer of joy",
+    "slug": "tate"
+  },
+  {
+    "_id": "69bcf39cd48aae609b2d5046",
+    "name": "magnolia",
+    "meaning": "Magnol's flower",
+    "slug": "magnolia"
+  },
+  {
+    "_id": "6a32e24cf20d6496953a071c",
+    "name": "maddison",
+    "meaning": "Son of Matthew; gift of God (variant of Madison)",
+    "slug": "maddison"
+  },
+  {
+    "_id": "698d4ce22c529f5f20013042",
+    "name": "mia",
+    "meaning": "Mine, Beloved",
+    "slug": "mia"
+  },
+  {
+    "_id": "6a32e254f20d6496953a0754",
+    "name": "maple",
+    "meaning": "Maple tree; from the maple wood",
+    "slug": "maple"
+  },
+  {
+    "_id": "69bcf3a8d48aae609b2d5094",
+    "name": "maci",
+    "meaning": "Weapon, hill",
+    "slug": "maci"
+  },
+  {
+    "_id": "69bcf3a9d48aae609b2d509c",
+    "name": "marilyn",
+    "meaning": "Star of the sea, bitter",
+    "slug": "marilyn"
+  },
+  {
+    "_id": "698d4ce92c529f5f20013071",
+    "name": "mila",
+    "meaning": "Dear One, Gracious, Miracle",
+    "slug": "mila"
+  },
+  {
+    "_id": "69bcf3a9d48aae609b2d50a0",
+    "name": "meadow",
+    "meaning": "Field of grass",
+    "slug": "meadow"
+  },
+  {
+    "_id": "698d5ab9995a9d80a3718771",
+    "name": "maeve",
+    "meaning": "She Who Intoxicates, Intoxicating, Enchanting",
+    "slug": "maeve"
+  },
+  {
+    "_id": "69bcf3b8d48aae609b2d5102",
+    "name": "morgan",
+    "meaning": "Sea-born, sea circle",
+    "slug": "morgan"
+  },
+  {
+    "_id": "69bcf3aed48aae609b2d50c2",
+    "name": "tyler",
+    "meaning": "Tile maker",
+    "slug": "tyler"
+  },
+  {
+    "_id": "69a46f756128c6005fcbadc0",
+    "name": "twinkle",
+    "meaning": "Shining",
+    "slug": "twinkle"
+  },
+  {
+    "_id": "69bcf3b9d48aae609b2d5108",
+    "name": "mei",
+    "meaning": "Beautiful, plum",
+    "slug": "mei"
+  },
+  {
+    "_id": "698d547a8113661005624ea4",
+    "name": "marjorie",
+    "meaning": "Pearl, Precious Gem",
+    "slug": "marjorie"
+  },
+  {
+    "_id": "69bcf3c2d48aae609b2d5142",
+    "name": "maddox",
+    "meaning": "Son of Madoc, fortunate",
+    "slug": "maddox"
+  },
+  {
+    "_id": "69bcf392d48aae609b2d500a",
+    "name": "madelyn",
+    "meaning": "Woman from Magdala, tower",
+    "slug": "madelyn"
+  },
+  {
+    "_id": "6a1fd44bc9c6d92b944c0e85",
+    "name": "maiden",
+    "meaning": "A young, unmarried woman or pure, virtuous one",
+    "slug": "maiden"
+  },
+  {
+    "_id": "698d49a015ac1200062cb50b",
+    "name": "marley",
+    "meaning": "Pleasant Seaside Meadow",
+    "slug": "marley"
+  },
+  {
+    "_id": "6a1fd44fc9c6d92b944c0e9f",
+    "name": "mason",
+    "meaning": "Stoneworker or one who builds with stone",
+    "slug": "mason"
+  },
+  {
+    "_id": "69bcf39ad48aae609b2d5038",
+    "name": "mane",
+    "meaning": "Noble, great",
+    "slug": "mane"
+  },
+  {
+    "_id": "6a32e240f20d6496953a06c2",
+    "name": "tommy",
+    "meaning": "Twin (pet form of Thomas)",
+    "slug": "tommy"
+  },
+  {
+    "_id": "698d54848113661005624eed",
+    "name": "tatum",
+    "meaning": "Cheerful Bringer of Joy, Joyful",
+    "slug": "tatum"
+  },
+  {
+    "_id": "6a32e245f20d6496953a06e8",
+    "name": "monty",
+    "meaning": "From the steep hill (pet form of Montgomery)",
+    "slug": "monty"
+  },
+  {
+    "_id": "69bcf39dd48aae609b2d504c",
+    "name": "tessa",
+    "meaning": "Harvester, to reap",
+    "slug": "tessa"
+  },
+  {
+    "_id": "6a32e250f20d6496953a073a",
+    "name": "maisie",
+    "meaning": "Pearl (Scottish pet form of Margaret)",
+    "slug": "maisie"
+  },
+  {
+    "_id": "698d499b15ac1200062cb4e5",
+    "name": "miles",
+    "meaning": "Soldier, Merciful",
+    "slug": "miles"
+  },
+  {
+    "_id": "6a32e254f20d6496953a0752",
+    "name": "maggie",
+    "meaning": "Pearl (pet form of Margaret)",
+    "slug": "maggie"
+  },
+  {
+    "_id": "69bcf3a6d48aae609b2d5086",
+    "name": "molly",
+    "meaning": "Star of the sea, bitter",
+    "slug": "molly"
+  },
+  {
+    "_id": "698d5ab3995a9d80a371873e",
+    "name": "murphy",
+    "meaning": "Sea Warrior, Sea Defender",
+    "slug": "murphy"
+  },
+  {
+    "_id": "698d499715ac1200062cb4cb",
+    "name": "maverick",
+    "meaning": "Independent, Nonconformist",
+    "slug": "maverick"
+  },
+  {
+    "_id": "698d499e15ac1200062cb4ff",
+    "name": "taylor",
+    "meaning": "Tailor, To Cut",
+    "slug": "taylor"
+  },
+  {
+    "_id": "698d54728113661005624e65",
+    "name": "truce",
+    "meaning": "Peace, Ceasefire",
+    "slug": "truce"
+  },
+  {
+    "_id": "698d5abd995a9d80a371878c",
+    "name": "mavis",
+    "meaning": "Songbird, Song Thrush, Musical",
+    "slug": "mavis"
+  },
+  {
+    "_id": "69bcf3b1d48aae609b2d50d4",
+    "name": "monroe",
+    "meaning": "Mouth of the Roe river",
+    "slug": "monroe"
+  }
+]

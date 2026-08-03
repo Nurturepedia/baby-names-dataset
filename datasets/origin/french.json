@@ -1,0 +1,599 @@
+[
+  {
+    "name": "orson",
+    "meaning": "bear cub",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "giles",
+    "meaning": "young goat",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "percy",
+    "meaning": "one who pierces the valley",
+    "gender": "boy",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "romilly",
+    "meaning": "from romilly",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mirabelle",
+    "meaning": "wonderful",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "clementine",
+    "meaning": "mild, merciful",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "millicent",
+    "meaning": "strong in work",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "delphine",
+    "meaning": "dolphin",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "senara",
+    "meaning": "light",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "annabelle",
+    "meaning": "Loving; graceful and beautiful (Anna + belle)",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "amelie",
+    "meaning": "Industrious; hard-working; striving",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "dior",
+    "meaning": "Golden (from French 'd'or'); after the House of Dior",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "alaina",
+    "meaning": "Beautiful; serene; fair (feminine of Alan)",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "chase",
+    "meaning": "Huntsman; one who pursues",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "chance",
+    "meaning": "Good fortune; fortune",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "boone",
+    "meaning": "Good; a blessing (from French 'bon')",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mireille",
+    "meaning": "To admire; wonderful",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "anais",
+    "meaning": "Grace; gracious one (Catalan and French form of Anna)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "odette",
+    "meaning": "Wealth; little wealthy one (French, from Germanic Oda)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "vivienne",
+    "meaning": "Alive; full of life (French form of Vivian)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "sylvie",
+    "meaning": "From the forest; woodland spirit (French form of Silvia)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lacey",
+    "meaning": "From Lassy; lace-like and delicate (Norman surname)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "coco",
+    "meaning": "Affectionate pet name; chocolate bean",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "spanish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fleur",
+    "meaning": "Flower",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "darcy",
+    "meaning": "Dark one; from Arcy",
+    "gender": "unisex",
+    "origin": [
+      "french",
+      "irish"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lottie",
+    "meaning": "Free one; petite and feminine (pet form of Charlotte)",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "margot",
+    "meaning": "Pearl (French pet form of Marguerite/Margaret)",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "adrien",
+    "meaning": "From Hadria; dark one; man of the sea (French form of Adrian)",
+    "gender": "boy",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "monty",
+    "meaning": "From the steep hill (pet form of Montgomery)",
+    "gender": "boy",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "remy",
+    "meaning": "Oarsman; from Rheims",
+    "gender": "unisex",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "harvey",
+    "meaning": "Battle-worthy; strong and worthy in battle",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mallory",
+    "meaning": "Unfortunate, unlucky, or ill-omened",
+    "gender": "unisex",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "brielle",
+    "meaning": "God is my strength or heroine of God",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "hebrew"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "allison",
+    "meaning": "Of noble kind or noble child",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "adeline",
+    "meaning": "Noble, sweet, or of noble kind",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mason",
+    "meaning": "Stoneworker or one who builds with stone",
+    "gender": "unisex",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "emmaline",
+    "meaning": "Industrious, hardworking, or peaceful home",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "michelle",
+    "meaning": "Who is like God?",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "estelle",
+    "meaning": "Star, celestial, heavenly light",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "elise",
+    "meaning": "Pledged to God, consecrated",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "hebrew"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "christine",
+    "meaning": "Follower of Christ, anointed one",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "nicole",
+    "meaning": "Victory of the people, people's triumph",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "caroline",
+    "meaning": "Free woman, strong and capable",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "catherine",
+    "meaning": "Pure, clear, unsullied",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "sophie",
+    "meaning": "Wisdom, wise woman",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "jolene",
+    "meaning": "Pretty, God will increase",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "journee",
+    "meaning": "Day's journey, adventure",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "noelle",
+    "meaning": "Christmas, born on Christmas",
+    "gender": "girl",
+    "origin": [
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "camille",
+    "meaning": "Young ceremonial attendant",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "lucille",
+    "meaning": "Light",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  }
+]

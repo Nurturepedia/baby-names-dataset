@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "6a36377c6e80c377c4aa90f4",
+    "name": "bear",
+    "meaning": "Bear; strong and brave",
+    "slug": "bear"
+  },
+  {
+    "_id": "6a624f1755057419dbaded47",
+    "name": "bluebell",
+    "meaning": "blue bell flower",
+    "slug": "bluebell"
+  },
+  {
+    "_id": "69bcf3acd48aae609b2d50b6",
+    "name": "billy",
+    "meaning": "Resolute protector",
+    "slug": "billy"
+  },
+  {
+    "_id": "6a3637716e80c377c4aa90a0",
+    "name": "brixton",
+    "meaning": "Brihtsige's stone; settlement of the bright one",
+    "slug": "brixton"
+  },
+  {
+    "_id": "69bcf3c0d48aae609b2d513a",
+    "name": "braxton",
+    "meaning": "Brock's town",
+    "slug": "braxton"
+  },
+  {
+    "_id": "69bcf3a3d48aae609b2d5076",
+    "name": "brady",
+    "meaning": "Broad-chested, spirited",
+    "slug": "brady"
+  },
+  {
+    "_id": "6a624ef155057419dbadeca7",
+    "name": "bronwen",
+    "meaning": "blessed breast, fair and pure",
+    "slug": "bronwen"
+  },
+  {
+    "_id": "69a46f786128c6005fcbadda",
+    "name": "vicky",
+    "meaning": "Victor",
+    "slug": "vicky"
+  },
+  {
+    "_id": "6a624f3655057419dbadeddf",
+    "name": "baxter",
+    "meaning": "baker",
+    "slug": "baxter"
+  },
+  {
+    "_id": "69b61b244869816a7148cfdc",
+    "name": "bennett",
+    "meaning": "Blessed",
+    "slug": "bennett"
+  },
+  {
+    "_id": "6a3637706e80c377c4aa9094",
+    "name": "bryson",
+    "meaning": "Son of Brice; son of the noble, speckled one",
+    "slug": "bryson"
+  },
+  {
+    "_id": "6a32e24ef20d6496953a0728",
+    "name": "billie",
+    "meaning": "Resolute protector (pet form of William or Wilhelmina)",
+    "slug": "billie"
+  },
+  {
+    "_id": "69bcf3a0d48aae609b2d5062",
+    "name": "brantley",
+    "meaning": "Firebrand, sword",
+    "slug": "brantley"
+  },
+  {
+    "_id": "6a3637736e80c377c4aa90ae",
+    "name": "baylor",
+    "meaning": "Bailiff; one who delivers goods; horse-trainer",
+    "slug": "baylor"
+  },
+  {
+    "_id": "698d5abe995a9d80a3718790",
+    "name": "birdie",
+    "meaning": "Little Bird, Songbird, Cheerful",
+    "slug": "birdie"
+  },
+  {
+    "_id": "6a36377d6e80c377c4aa90f8",
+    "name": "bowen",
+    "meaning": "Son of Owen; young, well-born warrior",
+    "slug": "bowen"
+  },
+  {
+    "_id": "69bcf3aad48aae609b2d50a6",
+    "name": "brother",
+    "meaning": "Sibling, kin",
+    "slug": "brother"
+  },
+  {
+    "_id": "6a624f0d55057419dbaded15",
+    "name": "bethany",
+    "meaning": "house of figs",
+    "slug": "bethany"
+  },
+  {
+    "_id": "698d54818113661005624ed3",
+    "name": "blake",
+    "meaning": "Dark, Fair, Pale, Black or Pale",
+    "slug": "blake"
+  },
+  {
+    "_id": "6a624f2755057419dbaded93",
+    "name": "blair",
+    "meaning": "plain, field, battlefield",
+    "slug": "blair"
+  },
+  {
+    "_id": "69bcf3b6d48aae609b2d50f4",
+    "name": "bell",
+    "meaning": "Beautiful, church bell",
+    "slug": "bell"
+  },
+  {
+    "_id": "69bcf3b7d48aae609b2d50f6",
+    "name": "britt",
+    "meaning": "Exalted one, strong",
+    "slug": "britt"
+  },
+  {
+    "_id": "698d5ab1995a9d80a3718730",
+    "name": "baker",
+    "meaning": "Bread Maker, Baker of Bread",
+    "slug": "baker"
+  },
+  {
+    "_id": "6a32e23bf20d6496953a06a6",
+    "name": "banjo",
+    "meaning": "From the musical instrument; popularised by Australian poet Banjo Paterson",
+    "slug": "banjo"
+  },
+  {
+    "_id": "69b61b284869816a7148cff2",
+    "name": "victoria",
+    "meaning": "Victory, conqueror",
+    "slug": "victoria"
+  },
+  {
+    "_id": "6a36376f6e80c377c4aa9090",
+    "name": "barrett",
+    "meaning": "Bear strength; mighty as a bear",
+    "slug": "barrett"
+  },
+  {
+    "_id": "6a32e25af20d6496953a0778",
+    "name": "verity",
+    "meaning": "Truth",
+    "slug": "verity"
+  },
+  {
+    "_id": "69bcf39bd48aae609b2d5044",
+    "name": "blakely",
+    "meaning": "Dark meadow",
+    "slug": "blakely"
+  },
+  {
+    "_id": "6a3637716e80c377c4aa909e",
+    "name": "beckham",
+    "meaning": "Homestead by the stream; settlement near the brook",
+    "slug": "beckham"
+  },
+  {
+    "_id": "698d5abd995a9d80a371878a",
+    "name": "bonnie",
+    "meaning": "Pretty, Beautiful, Good, Happy",
+    "slug": "bonnie"
+  },
+  {
+    "_id": "6a3637736e80c377c4aa90ac",
+    "name": "banks",
+    "meaning": "Dweller by the slope or riverbank",
+    "slug": "banks"
+  },
+  {
+    "_id": "69bcf3a1d48aae609b2d506a",
+    "name": "beckett",
+    "meaning": "Bee cottage, little brook",
+    "slug": "beckett"
+  },
+  {
+    "_id": "6a3637746e80c377c4aa90b2",
+    "name": "briggs",
+    "meaning": "Dweller by the bridges",
+    "slug": "briggs"
+  },
+  {
+    "_id": "698d54798113661005624e9e",
+    "name": "benson",
+    "meaning": "Son of Ben, Son of Benjamin, Blessed Son",
+    "slug": "benson"
+  },
+  {
+    "_id": "6a36377d6e80c377c4aa90f6",
+    "name": "boone",
+    "meaning": "Good; a blessing (from French 'bon')",
+    "slug": "boone"
+  },
+  {
+    "_id": "69bcf3a4d48aae609b2d507a",
+    "name": "bradley",
+    "meaning": "Broad meadow, wide clearing",
+    "slug": "bradley"
+  },
+  {
+    "_id": "6a3683c5fd359e893e58018b",
+    "name": "brynlee",
+    "meaning": "Hill meadow (from Welsh 'bryn', hill)",
+    "slug": "brynlee"
+  },
+  {
+    "_id": "69a46f766128c6005fcbadc8",
+    "name": "bobby",
+    "meaning": "Bright fame",
+    "slug": "bobby"
+  },
+  {
+    "_id": "6a624ef355057419dbadecaf",
+    "name": "bethan",
+    "meaning": "pledged to God",
+    "slug": "bethan"
+  },
+  {
+    "_id": "69bcf3abd48aae609b2d50aa",
+    "name": "blues",
+    "meaning": "Color blue, musical genre",
+    "slug": "blues"
+  },
+  {
+    "_id": "6a624f1455057419dbaded37",
+    "name": "betsy",
+    "meaning": "pledged to god",
+    "slug": "betsy"
+  },
+  {
+    "_id": "698d54748113661005624e70",
+    "name": "bryer",
+    "meaning": "Thorny Bush, Bramble",
+    "slug": "bryer"
+  },
+  {
+    "_id": "6a624f1d55057419dbaded63",
+    "name": "bleddyn",
+    "meaning": "wolf",
+    "slug": "bleddyn"
+  },
+  {
+    "_id": "69bcf3b4d48aae609b2d50e6",
+    "name": "brannon",
+    "meaning": "Raven, prince",
+    "slug": "brannon"
+  },
+  {
+    "_id": "69b61b214869816a7148cfc1",
+    "name": "brooks",
+    "meaning": "Of the brook, small stream",
+    "slug": "brooks"
+  },
+  {
+    "_id": "698d4ce42c529f5f20013051",
+    "name": "violet",
+    "meaning": "Purple Flower, Modest",
+    "slug": "violet"
+  },
+  {
+    "_id": "698d54798113661005624e9c",
+    "name": "bode",
+    "meaning": "Messenger, Herald, News Bringer",
+    "slug": "bode"
+  },
+  {
+    "_id": "698d5ab7995a9d80a3718758",
+    "name": "bridget",
+    "meaning": "Strength, Power, Exalted One, Fiery",
+    "slug": "bridget"
+  },
+  {
+    "_id": "69b61b2b4869816a7148d00c",
+    "name": "brooklyn",
+    "meaning": "Broken land, beautiful brook",
+    "slug": "brooklyn"
+  },
+  {
+    "_id": "6a36376e6e80c377c4aa9088",
+    "name": "brayden",
+    "meaning": "Broad one; descendant of Bradán (salmon)",
+    "slug": "brayden"
+  }
+]

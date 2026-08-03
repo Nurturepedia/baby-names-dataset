@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "6a624ef055057419dbadeca3",
+    "name": "sian",
+    "meaning": "God is gracious",
+    "slug": "sian"
+  },
+  {
+    "_id": "6a624f1255057419dbaded31",
+    "name": "susanna",
+    "meaning": "lily",
+    "slug": "susanna"
+  },
+  {
+    "_id": "69bcf3add48aae609b2d50b8",
+    "name": "gene",
+    "meaning": "Well-born, noble",
+    "slug": "gene"
+  },
+  {
+    "_id": "6a36377a6e80c377c4aa90e2",
+    "name": "stetson",
+    "meaning": "Hatmaker; from an English surname",
+    "slug": "stetson"
+  },
+  {
+    "_id": "69bcf3bad48aae609b2d5110",
+    "name": "serenity",
+    "meaning": "Peaceful, calm",
+    "slug": "serenity"
+  },
+  {
+    "_id": "69bcf3a4d48aae609b2d5078",
+    "name": "griffin",
+    "meaning": "Strong lord, mythical creature",
+    "slug": "griffin"
+  },
+  {
+    "_id": "6a624f0155057419dbadecdf",
+    "name": "sorcha",
+    "meaning": "brightness, radiant",
+    "slug": "sorcha"
+  },
+  {
+    "_id": "69b61b264869816a7148cfe6",
+    "name": "grace",
+    "meaning": "Charm, goodness, generosity",
+    "slug": "grace"
+  },
+  {
+    "_id": "6a624f1e55057419dbaded65",
+    "name": "gwilym",
+    "meaning": "resolute protector",
+    "slug": "gwilym"
+  },
+  {
+    "_id": "69b61b2c4869816a7148d010",
+    "name": "grayson",
+    "meaning": "Son of the gray-haired one",
+    "slug": "grayson"
+  },
+  {
+    "_id": "6a32e257f20d6496953a0766",
+    "name": "sunday",
+    "meaning": "Born on Sunday; the Lord's day",
+    "slug": "sunday"
+  },
+  {
+    "_id": "6a082db4a63efd2a4d493119",
+    "name": "george",
+    "meaning": "Farmer, earthworker, tiller of the soil",
+    "slug": "george"
+  },
+  {
+    "_id": "69bcf39ed48aae609b2d5058",
+    "name": "graham",
+    "meaning": "Gravelly homestead",
+    "slug": "graham"
+  },
+  {
+    "_id": "6a3683ccfd359e893e5801bf",
+    "name": "saylor",
+    "meaning": "Sailor; seafarer",
+    "slug": "saylor"
+  },
+  {
+    "_id": "698d5ab5995a9d80a3718750",
+    "name": "summer",
+    "meaning": "Summer Season, Warm Season",
+    "slug": "summer"
+  },
+  {
+    "_id": "6a624ef655057419dbadecbf",
+    "name": "sioned",
+    "meaning": "God is gracious",
+    "slug": "sioned"
+  },
+  {
+    "_id": "69bcf3a7d48aae609b2d508c",
+    "name": "skylar",
+    "meaning": "Scholar, eternal life",
+    "slug": "skylar"
+  },
+  {
+    "_id": "6a624f0e55057419dbaded1b",
+    "name": "georgiana",
+    "meaning": "farmer or earthworker",
+    "slug": "georgiana"
+  },
+  {
+    "_id": "698d4cec2c529f5f20013081",
+    "name": "sienna",
+    "meaning": "Reddish Brown, Orange-Red, Earthy",
+    "slug": "sienna"
+  },
+  {
+    "_id": "6a624f1c55057419dbaded5d",
+    "name": "gethin",
+    "meaning": "dark-skinned, swarthy",
+    "slug": "gethin"
+  },
+  {
+    "_id": "69bcf3b1d48aae609b2d50d2",
+    "name": "story",
+    "meaning": "Narrative, tale",
+    "slug": "story"
+  },
+  {
+    "_id": "69bcf3bad48aae609b2d510c",
+    "name": "sosa",
+    "meaning": "Creative modern name",
+    "slug": "sosa"
+  },
+  {
+    "_id": "698d547b8113661005624ea6",
+    "name": "scottie",
+    "meaning": "From Scotland, Scottish Person",
+    "slug": "scottie"
+  },
+  {
+    "_id": "69bcf3c0d48aae609b2d5136",
+    "name": "gavin",
+    "meaning": "White hawk, battle hawk",
+    "slug": "gavin"
+  },
+  {
+    "_id": "69bcf390d48aae609b2d4ffc",
+    "name": "samantha",
+    "meaning": "Listener, told by God",
+    "slug": "samantha"
+  },
+  {
+    "_id": "6a32e252f20d6496953a0744",
+    "name": "goldie",
+    "meaning": "Made of gold; golden one",
+    "slug": "goldie"
+  },
+  {
+    "_id": "6a32e239f20d6496953a0698",
+    "name": "spencer",
+    "meaning": "Steward; dispenser of provisions",
+    "slug": "spencer"
+  },
+  {
+    "_id": "69bcf399d48aae609b2d5034",
+    "name": "sawyer",
+    "meaning": "Woodcutter",
+    "slug": "sawyer"
+  },
+  {
+    "_id": "6a32e259f20d6496953a0774",
+    "name": "sutton",
+    "meaning": "From the southern town",
+    "slug": "sutton"
+  },
+  {
+    "_id": "698d54838113661005624ee3",
+    "name": "georgie",
+    "meaning": "Farmer, Earth Worker, Cultivator",
+    "slug": "georgie"
+  },
+  {
+    "_id": "6a3683c6fd359e893e580193",
+    "name": "gwendolyn",
+    "meaning": "White ring; blessed; fair-browed",
+    "slug": "gwendolyn"
+  },
+  {
+    "_id": "69bcf3a0d48aae609b2d5060",
+    "name": "grant",
+    "meaning": "Great, large",
+    "slug": "grant"
+  },
+  {
+    "_id": "6a3683cdfd359e893e5801c5",
+    "name": "skye",
+    "meaning": "The sky; from the Isle of Skye",
+    "slug": "skye"
+  },
+  {
+    "_id": "698d4ceb2c529f5f2001307b",
+    "name": "savannah",
+    "meaning": "Treeless Plain, Open Field",
+    "slug": "savannah"
+  },
+  {
+    "_id": "6a624ef555057419dbadecb9",
+    "name": "gwenllian",
+    "meaning": "white flood, fair flaxen",
+    "slug": "gwenllian"
+  },
+  {
+    "_id": "69bcf3a6d48aae609b2d5088",
+    "name": "georgia",
+    "meaning": "Farmer, earth worker",
+    "slug": "georgia"
+  },
+  {
+    "_id": "6a624efe55057419dbadecd7",
+    "name": "greer",
+    "meaning": "watchful, vigilant",
+    "slug": "greer"
+  },
+  {
+    "_id": "698d5ab7995a9d80a371875e",
+    "name": "guinevere",
+    "meaning": "White Shadow, Fair One, Blessed, Pure",
+    "slug": "guinevere"
+  },
+  {
+    "_id": "6a624f0b55057419dbaded0f",
+    "name": "senara",
+    "meaning": "light",
+    "slug": "senara"
+  },
+  {
+    "_id": "69bcf3abd48aae609b2d50ac",
+    "name": "sterling",
+    "meaning": "Of the highest quality, pure",
+    "slug": "sterling"
+  },
+  {
+    "_id": "6a624f1255057419dbaded2f",
+    "name": "saffron",
+    "meaning": "yellow flower or spice",
+    "slug": "saffron"
+  },
+  {
+    "_id": "698d49a015ac1200062cb509",
+    "name": "skyler",
+    "meaning": "Scholar, Sky",
+    "slug": "skyler"
+  },
+  {
+    "_id": "6a624f1355057419dbaded35",
+    "name": "georgina",
+    "meaning": "farmer or earth-worker",
+    "slug": "georgina"
+  },
+  {
+    "_id": "69bcf3afd48aae609b2d50c8",
+    "name": "golden",
+    "meaning": "Made of gold, precious",
+    "slug": "golden"
+  },
+  {
+    "_id": "69b61b2a4869816a7148d000",
+    "name": "sadie",
+    "meaning": "Princess",
+    "slug": "sadie"
+  },
+  {
+    "_id": "698d499d15ac1200062cb4f3",
+    "name": "sage",
+    "meaning": "Wise One, Herb",
+    "slug": "sage"
+  },
+  {
+    "_id": "698d4ce72c529f5f20013063",
+    "name": "scarlett",
+    "meaning": "Red, Bright Red, Scarlet",
+    "slug": "scarlett"
+  },
+  {
+    "_id": "698d54828113661005624edb",
+    "name": "sidney",
+    "meaning": "Wide Island, From Saint Denis, Estate Owner",
+    "slug": "sidney"
+  },
+  {
+    "_id": "69bcf393d48aae609b2d5010",
+    "name": "greyson",
+    "meaning": "Son of the gray-haired one",
+    "slug": "greyson"
+  },
+  {
+    "_id": "6a32e23bf20d6496953a06a8",
+    "name": "sonny",
+    "meaning": "Son; our boy (English term of endearment)",
+    "slug": "sonny"
+  }
+]

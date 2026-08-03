@@ -1,0 +1,598 @@
+[
+  {
+    "name": "orson",
+    "meaning": "bear cub",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "french",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "giles",
+    "meaning": "young goat",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "linus",
+    "meaning": "flax",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "julius",
+    "meaning": "youthful, downy-bearded",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "rex",
+    "meaning": "king",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "magnus",
+    "meaning": "greatest",
+    "gender": "boy",
+    "origin": [
+      "latin",
+      "germanic"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lucian",
+    "meaning": "light",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "fabian",
+    "meaning": "bean grower",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "benedict",
+    "meaning": "blessed",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "rufus",
+    "meaning": "red-haired",
+    "gender": "boy",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "chester",
+    "meaning": "fortress, walled town",
+    "gender": "boy",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "gregor",
+    "meaning": "watchful, vigilant",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "emrys",
+    "meaning": "Immortal",
+    "gender": "boy",
+    "origin": [
+      "irish",
+      "latin"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  },
+  {
+    "name": "rosanna",
+    "meaning": "gracious rose",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "sabina",
+    "meaning": "sabine woman",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "lois",
+    "meaning": "most desirable or superior",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "kitty",
+    "meaning": "pure",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "sabrina",
+    "meaning": "from the river severn",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "allegra",
+    "meaning": "joyful, lively",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "zinnia",
+    "meaning": "zinn's flower",
+    "gender": "girl",
+    "origin": [
+      "germanic",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mirabelle",
+    "meaning": "wonderful",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "clementine",
+    "meaning": "mild, merciful",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "french"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "viola",
+    "meaning": "violet flower",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lyra",
+    "meaning": "lyre or harp",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "dulcie",
+    "meaning": "sweet",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "georgina",
+    "meaning": "farmer or earth-worker",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "susanna",
+    "meaning": "lily",
+    "gender": "girl",
+    "origin": [
+      "hebrew",
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "persephone",
+    "meaning": "bringer of destruction or thresher of grain",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "leonora",
+    "meaning": "light or lion",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "lavender",
+    "meaning": "purple flower",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "isadora",
+    "meaning": "gift of isis",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "hermione",
+    "meaning": "messenger or earthly",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "georgiana",
+    "meaning": "farmer or earthworker",
+    "gender": "girl",
+    "origin": [
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "delphine",
+    "meaning": "dolphin",
+    "gender": "girl",
+    "origin": [
+      "french",
+      "latin",
+      "english"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "beatrix",
+    "meaning": "voyager or blessed",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "greer",
+    "meaning": "watchful, vigilant",
+    "gender": "unisex",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "effie",
+    "meaning": "well-spoken",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "iona",
+    "meaning": "island, blessed jewel",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "english",
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "seren",
+    "meaning": "Star",
+    "gender": "girl",
+    "origin": [
+      "irish",
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "amora",
+    "meaning": "Love (from Latin amor)",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "virginia",
+    "meaning": "Maiden; pure; virginal",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "serena",
+    "meaning": "Serene; calm; tranquil",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "renata",
+    "meaning": "Reborn; born anew",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "christianity",
+      "neutral"
+    ]
+  },
+  {
+    "name": "novalee",
+    "meaning": "New meadow; new beginning (Nova + Lee)",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "milani",
+    "meaning": "From Milan; one from the city of Milan",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "milan",
+    "meaning": "Gracious, dear (Slavic); the city of Milan",
+    "gender": "unisex",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "livia",
+    "meaning": "Life; olive; (Roman gens Livia)",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "alexandra",
+    "meaning": "Defender of mankind; protector of the people",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral"
+    ]
+  },
+  {
+    "name": "mariana",
+    "meaning": "Of the sea; beloved; blend of Maria and Ana",
+    "gender": "girl",
+    "origin": [
+      "latin",
+      "spanish"
+    ],
+    "religion": [
+      "christianity"
+    ]
+  },
+  {
+    "name": "melanie",
+    "meaning": "Dark-haired; dark beauty",
+    "gender": "girl",
+    "origin": [
+      "latin"
+    ],
+    "religion": [
+      "neutral",
+      "christianity"
+    ]
+  }
+]
