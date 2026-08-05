@@ -157,6 +157,11 @@ https://www.nurturepedia.com/tools/numerology-calculator
 
 ---
 
+## Open Datasets
+
+- Baby Names Dataset
+  https://github.com/Nurturepedia/baby-names-dataset
+
 ## About Nurturepedia
 
 Nurturepedia is a parenting and baby names platform that helps families discover meaningful names, parenting resources, and practical family planning tools.
